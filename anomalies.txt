@@ -1,982 +1,881 @@
-Villes avec des anomalies de population: Rurutu - 10000
-Villes avec des anomalies de population: Port Vila - 10000
-Villes avec des anomalies de population: Dallas/Fort Worth - 10000
-Villes avec des anomalies de population: Hana - 10000
-Villes avec des anomalies de population: Kapalua - 10000
-Villes avec des anomalies de population: Johnston Island - 10000
-Villes avec des anomalies de population: Kona - 10000
-Villes avec des anomalies de population: Kauai Island - 10000
-Villes avec des anomalies de population: Lanai City - 10000
-Villes avec des anomalies de population: Majuro - 25400
-Villes avec des anomalies de population: Hoolehua - 10000
-Villes avec des anomalies de population: Kamuela - 10000
-Villes avec des anomalies de population: New York - 10000
-Villes avec des anomalies de population: Kahului - 26337
-Villes avec des anomalies de population: Portland - 16116
-Villes avec des anomalies de population: Pago Pago - 11500
-Villes avec des anomalies de population: St Louis - 10000
-Villes avec des anomalies de population: Victoria - 25139
-Villes avec des anomalies de population: Leon/Guanajuato - 10000
-Villes avec des anomalies de population: Culiacan - 10000
-Villes avec des anomalies de population: Durango - 28229
-Villes avec des anomalies de population: Fresno - 17668
-Villes avec des anomalies de population: Frankfurt - 10000
-Villes avec des anomalies de population: Imperial - 32344
-Villes avec des anomalies de population: Inyokern - 10000
-Villes avec des anomalies de population: La Paz - 24716
-Villes avec des anomalies de population: Loreto - 24260
-Villes avec des anomalies de population: Monterey - 28338
-Villes avec des anomalies de population: Minneapolis/St Paul - 10000
-Villes avec des anomalies de population: Mazatlan - 10000
-Villes avec des anomalies de population: Oxnard/Ventura - 10000
-Villes avec des anomalies de population: Palm Springs - 22341
-Villes avec des anomalies de population: Sacramento - 16982
-Villes avec des anomalies de population: San Diego - 18531
-Villes avec des anomalies de population: Santa Barbara - 15445
-Villes avec des anomalies de population: St George - 10000
-Villes avec des anomalies de population: San Jose Cabo - 10000
-Villes avec des anomalies de population: Santa Ana - 25145
-Villes avec des anomalies de population: Torreon - 10000
-Villes avec des anomalies de population: Montreal - 10000
-Villes avec des anomalies de population: Ixtapa/zihuatanejo - 10000
-Villes avec des anomalies de population: Zurich - 10000
-Villes avec des anomalies de population: Amami O Shima - 10000
-Villes avec des anomalies de population: Cheju - 10000
-Villes avec des anomalies de population: Iwami - 10000
-Villes avec des anomalies de population: Memambetsu - 10000
-Villes avec des anomalies de population: Miyako Jima - 10000
-Villes avec des anomalies de population: Oita - 10000
-Villes avec des anomalies de population: Oki Island - 10000
-Villes avec des anomalies de population: Pusan - 10000
-Villes avec des anomalies de population: Shonai - 20940
-Villes avec des anomalies de population: Ulaanbaatar - 10000
-Villes avec des anomalies de population: Aitutaki - 10000
-Villes avec des anomalies de population: Maupiti Island - 10000
-Villes avec des anomalies de population: Monbetsu - 10000
-Villes avec des anomalies de population: Miyake Jima - 10000
-Villes avec des anomalies de population: Nakashibetsu - 24014
-Villes avec des anomalies de population: Nanki Shirahama - 10000
-Villes avec des anomalies de population: Wakkanai - 33869
-Villes avec des anomalies de population: Hokitika - 10000
-Villes avec des anomalies de population: Misima Island - 10000
-Villes avec des anomalies de population: Normanton - 10000
-Villes avec des anomalies de population: Bahrain - 10000
-Villes avec des anomalies de population: Mauritius - 10000
-Villes avec des anomalies de population: Urumqi - 10000
-Villes avec des anomalies de population: Kangnung - 10000
-Villes avec des anomalies de population: Kunsan - 10000
-Villes avec des anomalies de population: Kwangju - 10000
-Villes avec des anomalies de population: Taegu - 10000
-Villes avec des anomalies de population: Kuwait - 10000
-Villes avec des anomalies de population: St Denis de la Reunion - 10000
-Villes avec des anomalies de population: Mahe Island - 10000
-Villes avec des anomalies de population: Koh Samui - 10000
-Villes avec des anomalies de population: Ha'apai - 10000
-Villes avec des anomalies de population: Vava'u - 10000
-Villes avec des anomalies de population: Dillons Bay - 10000
-Villes avec des anomalies de population: Emae - 10000
-Villes avec des anomalies de population: Ipota - 10000
-Villes avec des anomalies de population: Lamen Bay - 10000
-Villes avec des anomalies de population: Lonorore - 10000
-Villes avec des anomalies de population: Longana - 10000
-Villes avec des anomalies de population: Lamap - 10000
-Villes avec des anomalies de population: Norsup - 10000
-Villes avec des anomalies de population: Espiritu Santo - 10000
-Villes avec des anomalies de population: South West Bay - 10000
-Villes avec des anomalies de population: Tanna - 10000
-Villes avec des anomalies de population: Tongoa - 10000
-Villes avec des anomalies de population: Craig Cove - 10000
-Villes avec des anomalies de population: Allentown/Bethlehem/Easton - 10000
-Villes avec des anomalies de population: Augusta - 30723
-Villes avec des anomalies de population: Albany - 33650
-Villes avec des anomalies de population: Bermuda - 10000
-Villes avec des anomalies de population: Bloomington-Normal - 10000
-Villes avec des anomalies de population: Buffalo - 16026
-Villes avec des anomalies de population: Akron/Canton - 10000
-Villes avec des anomalies de population: Charleston - 21196
-Villes avec des anomalies de population: Charleston - 21196
-Villes avec des anomalies de population: Flint - 26442
-Villes avec des anomalies de population: Gulfport/Biloxi - 10000
-Villes avec des anomalies de population: Greensboro/High Point - 10000
-Villes avec des anomalies de population: Greenville - 16434
-Villes avec des anomalies de population: Westchester County - 10000
-Villes avec des anomalies de population: Huntsville - 19816
-Villes avec des anomalies de population: Long Island Macarthur - 10000
-Villes avec des anomalies de population: Jacksonville - 28643
-Villes avec des anomalies de population: Merida - 10000
-Villes avec des anomalies de population: Myrtle Beach - 31035
-Villes avec des anomalies de population: Portland - 16116
-Villes avec des anomalies de population: Raleigh/Durham - 10000
-Villes avec des anomalies de population: Richmond - 28587
-Villes avec des anomalies de population: Rochester - 28671
-Villes avec des anomalies de population: Shannon - 10000
-Villes avec des anomalies de population: Sarasota/Bradenton - 10000
-Villes avec des anomalies de population: Newburgh - 28290
-Villes avec des anomalies de population: Tri-Cities Regional - 10000
-Villes avec des anomalies de population: Sal - 10000
-Villes avec des anomalies de population: Waterloo - 29778
-Villes avec des anomalies de population: Duluth/Superior - 10000
-Villes avec des anomalies de population: Dusseldorf - 10000
-Villes avec des anomalies de population: Iron Mountain - 10000
-Villes avec des anomalies de population: Krakow - 10000
-Villes avec des anomalies de population: Lansing - 28349
-Villes avec des anomalies de population: Saginaw - 22079
-Villes avec des anomalies de population: St Petersburg - 10000
-Villes avec des anomalies de population: Rhinelander - 10000
-Villes avec des anomalies de population: Rochester - 28671
-Villes avec des anomalies de population: Traverse City - 15218
-Villes avec des anomalies de population: Acapulco - 10000
-Villes avec des anomalies de population: Beaumont - 115282
-Villes avec des anomalies de population: Burbank - 29128
-Villes avec des anomalies de population: Brownwood - 19031
-Villes avec des anomalies de population: El Dorado - 18386
-Villes avec des anomalies de population: Hot Springs - 35635
-Villes avec des anomalies de population: Harlingen - 16119
-Villes avec des anomalies de population: Long Beach - 15555
-Villes avec des anomalies de population: Midland/odessa - 10000
-Villes avec des anomalies de population: Mcallen - 10000
-Villes avec des anomalies de population: Ponca City - 24758
-Villes avec des anomalies de population: Texarkana - 30353
-Villes avec des anomalies de population: Fukue - 10000
-Villes avec des anomalies de population: Brownsville - 15313
-Villes avec des anomalies de population: San Luis Potosi - 10000
-Villes avec des anomalies de population: Victoria - 25139
-Villes avec des anomalies de population: Airok - 10000
-Villes avec des anomalies de population: Aur Island - 10000
-Villes avec des anomalies de population: Jabot - 10000
-Villes avec des anomalies de population: Jeh - 10000
-Villes avec des anomalies de population: Kaben - 10000
-Villes avec des anomalies de population: Kwajalein - 10000
-Villes avec des anomalies de population: Ebon - 10000
-Villes avec des anomalies de population: Kili Island - 10000
-Villes avec des anomalies de population: Maloelap Island - 10000
-Villes avec des anomalies de population: Mili Island - 10000
-Villes avec des anomalies de population: Jaluit Island - 10000
-Villes avec des anomalies de population: Utirik Island - 10000
-Villes avec des anomalies de population: Woja - 10000
-Villes avec des anomalies de population: Wotje Island - 10000
-Villes avec des anomalies de population: Nantucket - 10000
-Villes avec des anomalies de population: Aguadilla - 16073
-Villes avec des anomalies de population: Geneva - 21806
-Villes avec des anomalies de population: Kiev - 10000
-Villes avec des anomalies de population: Ithaca - 30788
-Villes avec des anomalies de population: Lebanon - 20623
-Villes avec des anomalies de population: Marrakech - 10000
-Villes avec des anomalies de population: Reykjavik - 10000
-Villes avec des anomalies de population: Timisoara - 10000
-Villes avec des anomalies de population: Quebec - 10000
-Villes avec des anomalies de population: Arcata/Eureka - 10000
-Villes avec des anomalies de population: Klamath Falls - 21399
-Villes avec des anomalies de population: North Bend - 10000
-Villes avec des anomalies de population: Pendleton - 16881
-Villes avec des anomalies de population: Redmond - 28654
-Villes avec des anomalies de population: Aspen - 10000
-Villes avec des anomalies de population: Durango - 28229
-Villes avec des anomalies de population: Fort Huachuca/Sierra Vista - 10000
-Villes avec des anomalies de population: Farmington - 18181
-Villes avec des anomalies de population: Guaymas - 10000
-Villes avec des anomalies de population: Montrose - 19062
-Villes avec des anomalies de population: Page - 10000
-Villes avec des anomalies de population: Show Low - 10000
-Villes avec des anomalies de population: Walla Walla - 32237
-Villes avec des anomalies de population: Butte - 34190
-Villes avec des anomalies de population: Port Angeles - 19448
-Villes avec des anomalies de population: Wenatchee - 33636
-Villes avec des anomalies de population: Kalispell - 22052
-Villes avec des anomalies de population: Great Falls - 15427
-Villes avec des anomalies de population: Helena - 18264
-Villes avec des anomalies de population: Ketchikan - 10000
-Villes avec des anomalies de population: Moses Lake - 22082
-Villes avec des anomalies de population: Pullman - 32816
-Villes avec des anomalies de population: Roche Harbor - 10000
-Villes avec des anomalies de population: Sun Valley - 19299
-Villes avec des anomalies de population: Westsound - 10000
-Villes avec des anomalies de population: Crescent City - 10000
-Villes avec des anomalies de population: Marion - 17803
-Villes avec des anomalies de population: Paducah - 24864
-Villes avec des anomalies de population: Mountain Home - 10000
-Villes avec des anomalies de population: Fort Mcmurray - 10000
-Villes avec des anomalies de population: High Level - 10000
-Villes avec des anomalies de population: Peace River - 10000
-Villes avec des anomalies de population: Hay River - 10000
-Villes avec des anomalies de population: Rainbow Lake - 10000
-Villes avec des anomalies de population: Sault Ste Marie - 10000
-Villes avec des anomalies de population: Gander - 10000
-Villes avec des anomalies de population: Sudbury - 22213
-Villes avec des anomalies de population: St John - 10000
-Villes avec des anomalies de population: Pembroke - 10000
-Villes avec des anomalies de population: St Johns - 10000
-Villes avec des anomalies de population: Qualicum - 10000
-Villes avec des anomalies de population: Anahim Lake - 10000
-Villes avec des anomalies de population: Tofino - 10000
-Villes avec des anomalies de population: Castlegar - 10000
-Villes avec des anomalies de population: Prince Rupert - 10000
-Villes avec des anomalies de population: Powell River - 10000
-Villes avec des anomalies de population: Comox - 10000
-Villes avec des anomalies de population: Quesnel - 10000
-Villes avec des anomalies de population: Cranbrook - 20047
-Villes avec des anomalies de population: Fort St John - 10000
-Villes avec des anomalies de population: Smithers - 10000
-Villes avec des anomalies de population: Penticton - 33761
-Villes avec des anomalies de population: Sandspit - 10000
-Villes avec des anomalies de population: Port Hardy - 10000
-Villes avec des anomalies de population: Williams Lake - 10000
-Villes avec des anomalies de population: Lloydminster - 31582
-Villes avec des anomalies de population: Alamogordo - 30753
-Villes avec des anomalies de population: Gallup - 23240
-Villes avec des anomalies de population: Los Alamos - 10000
-Villes avec des anomalies de population: Silver City - 10000
-Villes avec des anomalies de population: Malaga - 10000
-Villes avec des anomalies de population: Antwerp - 10000
-Villes avec des anomalies de population: Bergen - 29974
-Villes avec des anomalies de population: Billund - 10000
-Villes avec des anomalies de population: Berne - 10000
-Villes avec des anomalies de population: Cologne - 10000
-Villes avec des anomalies de population: Dalaman - 19292
-Villes avec des anomalies de population: Euroairport - 10000
-Villes avec des anomalies de population: Munster - 17746
-Villes avec des anomalies de population: Fuerteventura - 10000
-Villes avec des anomalies de population: Guernsey - 10000
-Villes avec des anomalies de population: Gothenburg - 10000
-Villes avec des anomalies de population: Heraklion - 10000
-Villes avec des anomalies de population: Humberside - 10000
-Villes avec des anomalies de population: Leeds Bradford - 10000
-Villes avec des anomalies de population: St Petersburg - 10000
-Villes avec des anomalies de population: Las Palmas - 10000
-Villes avec des anomalies de population: Liverpool - 27545
-Villes avec des anomalies de population: Malta - 10000
-Villes avec des anomalies de population: Malmo - 10000
-Villes avec des anomalies de population: Teesside - 10000
-Villes avec des anomalies de population: Nuremberg - 10000
-Villes avec des anomalies de population: Palma Mallorca - 10000
-Villes avec des anomalies de population: Rhodes - 10000
-Villes avec des anomalies de population: Thessaloniki - 10000
-Villes avec des anomalies de population: Santa Cruz de la Palma - 15674
-Villes avec des anomalies de population: Tenerife - 10000
-Villes avec des anomalies de population: Constanta - 10000
-Villes avec des anomalies de population: Izmir - 10000
-Villes avec des anomalies de population: King Salmon - 10000
-Villes avec des anomalies de population: Aniak - 10000
-Villes avec des anomalies de population: Bethel - 10000
-Villes avec des anomalies de population: Cold Bay - 10000
-Villes avec des anomalies de population: Cordova - 29289
-Villes avec des anomalies de population: Dillingham - 10000
-Villes avec des anomalies de population: Dutch Harbor - 10000
-Villes avec des anomalies de population: Kenai - 10000
-Villes avec des anomalies de population: Iliamna - 10000
-Villes avec des anomalies de population: Petropavlovsk-Kamchats - 10000
-Villes avec des anomalies de population: Port Heiden - 10000
-Villes avec des anomalies de population: Sand Point - 10000
-Villes avec des anomalies de population: St George Island - 10000
-Villes avec des anomalies de population: Valdez - 10000
-Villes avec des anomalies de population: Barrow - 10000
-Villes avec des anomalies de population: St Marys - 10000
-Villes avec des anomalies de population: St Paul Island - 10000
-Villes avec des anomalies de population: Ciudad Juarez - 10000
-Villes avec des anomalies de population: Augusta - 30723
-Villes avec des anomalies de population: Bar Harbor - 10000
-Villes avec des anomalies de population: Elmira/Corning - 10000
-Villes avec des anomalies de population: Martha's Vineyard - 10000
-Villes avec des anomalies de population: Presque Isle - 10000
-Villes avec des anomalies de population: Provincetown - 10000
-Villes avec des anomalies de population: Rockland - 17982
-Villes avec des anomalies de population: Rutland - 15824
-Villes avec des anomalies de population: Freeport - 26910
-Villes avec des anomalies de population: Salisbury-Ocean City - 10000
-Villes avec des anomalies de population: Lewisburg - 10000
-Villes avec des anomalies de population: Jacksonville - 28643
-Villes avec des anomalies de population: Greenville - 16434
-Villes avec des anomalies de population: Southern Pines - 10000
-Villes avec des anomalies de population: Dickinson - 19895
-Villes avec des anomalies de population: Kearney - 33021
-Villes avec des anomalies de population: North Platte - 24194
-Villes avec des anomalies de population: Pierre - 10000
-Villes avec des anomalies de population: Sheridan - 17873
-Villes avec des anomalies de population: Telluride - 10000
-Villes avec des anomalies de population: Hancock - 10000
-Villes avec des anomalies de population: Donegal - 10000
-Villes avec des anomalies de population: Isle of Man - 10000
-Villes avec des anomalies de population: Kerry County - 10000
-Villes avec des anomalies de population: Londonderry - 10000
-Villes avec des anomalies de population: Sligo - 19199
-Villes avec des anomalies de population: Key West - 25755
-Villes avec des anomalies de population: Lanzarote - 10000
-Villes avec des anomalies de population: Cluj - 10000
-Villes avec des anomalies de population: Djerba - 10000
-Villes avec des anomalies de population: Dnepropetrovsk - 10000
-Villes avec des anomalies de population: Karaganda - 10000
-Villes avec des anomalies de population: Klagenfurt - 10000
-Villes avec des anomalies de population: Lvov - 10000
-Villes avec des anomalies de population: Ekaterinburg - 10000
-Villes avec des anomalies de population: Tabarka - 10000
-Villes avec des anomalies de population: Wroclaw - 10000
-Villes avec des anomalies de population: Ciudad Obregon - 10000
-Villes avec des anomalies de population: Guerrero Negro - 10000
-Villes avec des anomalies de population: Ely - 19090
-Villes avec des anomalies de population: Grand Canyon - 10000
-Villes avec des anomalies de population: Aarhus - 10000
-Villes avec des anomalies de population: Alghero - 34261
-Villes avec des anomalies de population: Dinard - 10000
-Villes avec des anomalies de population: St Etienne - 10000
-Villes avec des anomalies de population: Nimes - 10000
-Villes avec des anomalies de population: Gdansk - 10000
-Villes avec des anomalies de population: Gibraltar - 26544
-Villes avec des anomalies de population: Jersey - 10000
-Villes avec des anomalies de population: Menorca - 10000
-Villes avec des anomalies de population: Knock - 10000
-Villes avec des anomalies de population: Newquay - 20189
-Villes avec des anomalies de population: Ovda - 10000
-Villes avec des anomalies de population: Greenville - 16434
-Villes avec des anomalies de population: Colima - 15875
-Villes avec des anomalies de population: Huatulco - 10000
-Villes avec des anomalies de population: Poza Rica - 10000
-Villes avec des anomalies de population: Puerto Escondido - 25902
-Villes avec des anomalies de population: Lampedusa - 10000
-Villes avec des anomalies de population: Sharm el Sheikh - 10000
-Villes avec des anomalies de population: Adler/Sochi - 10000
-Villes avec des anomalies de population: Arkhangelsk - 10000
-Villes avec des anomalies de population: Andizhan - 10000
-Villes avec des anomalies de population: Bourgas - 10000
-Villes avec des anomalies de population: Chernovtsy - 10000
-Villes avec des anomalies de population: Anadyr - 15604
-Villes avec des anomalies de population: Elat - 10000
-Villes avec des anomalies de population: Kharkov - 10000
-Villes avec des anomalies de population: Gyandzha - 10000
-Villes avec des anomalies de population: Krivoy Rog - 10000
-Villes avec des anomalies de population: Nikolaev - 10000
-Villes avec des anomalies de population: Zaporozhye - 10000
-Villes avec des anomalies de population: Rostov - 31039
-Villes avec des anomalies de population: Salehard - 10000
-Villes avec des anomalies de population: Stavropol - 10000
-Villes avec des anomalies de population: Urgench - 10000
-Villes avec des anomalies de population: Bemidji - 10000
-Villes avec des anomalies de population: Brookings - 23657
-Villes avec des anomalies de population: Brainerd - 10000
-Villes avec des anomalies de population: Ironwood - 10000
-Villes avec des anomalies de population: Jamestown - 637
-Villes avec des anomalies de population: Mason City - 27366
-Villes avec des anomalies de population: Agen - 34367
-Villes avec des anomalies de population: Cherbourg - 10000
-Villes avec des anomalies de population: Chambery - 10000
-Villes avec des anomalies de population: Bergerac - 28317
-Villes avec des anomalies de population: Montlucon - 10000
-Villes avec des anomalies de population: New London/Groton - 10000
-Villes avec des anomalies de population: Williamsport - 29201
-Villes avec des anomalies de population: Altoona - 16984
-Villes avec des anomalies de population: Watertown - 31915
-Villes avec des anomalies de population: Cumberland - 20130
-Villes avec des anomalies de population: Dubois - 10000
-Villes avec des anomalies de population: Jamestown - 637
-Villes avec des anomalies de population: Johnstown - 19966
-Villes avec des anomalies de population: Latrobe - 10000
-Villes avec des anomalies de population: Morgantown - 30708
-Villes avec des anomalies de population: Staunton - 24416
-Villes avec des anomalies de population: Hamilton - 902
-Villes avec des anomalies de population: Elko - 20279
-Villes avec des anomalies de population: Cedar City - 30184
-Villes avec des anomalies de population: Moab - 10000
-Villes avec des anomalies de population: Vernal - 10000
-Villes avec des anomalies de population: Arvidsjaur - 10000
-Villes avec des anomalies de population: Borlange - 10000
-Villes avec des anomalies de population: Gallivare - 10000
-Villes avec des anomalies de population: Hagfors - 10000
-Villes avec des anomalies de population: Hudiksvall - 16081
-Villes avec des anomalies de population: Jonkoping - 10000
-Villes avec des anomalies de population: Jyvaskyla - 10000
-Villes avec des anomalies de population: Kramfors - 10000
-Villes avec des anomalies de population: Kiruna - 17037
-Villes avec des anomalies de population: Skovde - 10000
-Villes avec des anomalies de population: Lulea - 10000
-Villes avec des anomalies de population: Linkoping - 10000
-Villes avec des anomalies de population: Lycksele - 10000
-Villes avec des anomalies de population: Mariehamn - 10682
-Villes avec des anomalies de population: Norrkoping - 10000
-Villes avec des anomalies de population: Ornskoldsvik - 10000
-Villes avec des anomalies de population: Orebro - 10000
-Villes avec des anomalies de population: Ostersund - 10000
-Villes avec des anomalies de population: Oskarshamn - 18287
-Villes avec des anomalies de population: Ronneby - 10000
-Villes avec des anomalies de population: Skelleftea - 10000
-Villes avec des anomalies de population: Storuman - 10000
-Villes avec des anomalies de population: Hultsfred - 10000
-Villes avec des anomalies de population: Trollhattan - 10000
-Villes avec des anomalies de population: Umea - 10000
-Villes avec des anomalies de population: Visby - 23402
-Villes avec des anomalies de population: Vilhelmina - 10000
-Villes avec des anomalies de population: Vaxjo - 10000
-Villes avec des anomalies de population: Beckley - 17056
-Villes avec des anomalies de population: Bluefield - 10000
-Villes avec des anomalies de population: Baie Comeau - 10000
-Villes avec des anomalies de population: Bagotville - 10000
-Villes avec des anomalies de population: La Grande - 10000
-Villes avec des anomalies de population: Kuujjuarapik - 10000
-Villes avec des anomalies de population: St Pierre - 10000
-Villes avec des anomalies de population: Chibougamau - 10000
-Villes avec des anomalies de population: Roberval - 10000
-Villes avec des anomalies de population: St Leonard - 10000
-Villes avec des anomalies de population: Alma - 29526
-Villes avec des anomalies de population: Rouyn - 10000
-Villes avec des anomalies de population: Val D'Or - 10000
-Villes avec des anomalies de population: Kuujjuaq - 10000
-Villes avec des anomalies de population: Bathurst - 33110
-Villes avec des anomalies de population: Mont Joli - 10000
-Villes avec des anomalies de population: Sion - 10000
-Villes avec des anomalies de population: Kikaiga Shima - 10000
-Villes avec des anomalies de population: Okino Erabu - 10000
-Villes avec des anomalies de population: Tokunoshima - 10000
-Villes avec des anomalies de population: Nakhon Phanom - 34595
-Villes avec des anomalies de population: Roi Et - 39328
-Villes avec des anomalies de population: Sakon Nakhon - 76237
-Villes avec des anomalies de population: Udaipur - 30264
-Villes avec des anomalies de population: Sebha - 10000
-Villes avec des anomalies de population: Taba - 10000
-Villes avec des anomalies de population: Yonaguni Jima - 10000
-Villes avec des anomalies de population: Taramajima - 10000
-Villes avec des anomalies de population: Diyarbakir - 10000
-Villes avec des anomalies de population: Ercan - 10000
-Villes avec des anomalies de population: Elazig - 10000
-Villes avec des anomalies de population: Nevsehir - 10000
-Villes avec des anomalies de population: Kitadaito - 10000
-Villes avec des anomalies de population: Minami Daito - 10000
-Villes avec des anomalies de population: Nha-Trang - 10000
-Villes avec des anomalies de population: Phuquoc - 10000
-Villes avec des anomalies de population: Choibalsan - 10000
-Villes avec des anomalies de population: Dalanzadgad - 10000
-Villes avec des anomalies de population: Moron - 10000
-Villes avec des anomalies de population: Bulgan - 17348
-Villes avec des anomalies de population: Altenrhein - 10000
-Villes avec des anomalies de population: Kosice - 10000
-Villes avec des anomalies de population: Poznan - 10000
-Villes avec des anomalies de population: Tiruchirapally - 10000
-Villes avec des anomalies de population: Faroe Islands - 10000
-Villes avec des anomalies de population: Karup - 10000
-Villes avec des anomalies de population: Bornholm - 10000
-Villes avec des anomalies de population: Kangerlussuaq - 10000
-Villes avec des anomalies de population: Sonderborg - 10000
-Villes avec des anomalies de population: Narsarsuaq - 10000
-Villes avec des anomalies de population: Vasteras - 10000
-Villes avec des anomalies de population: Ivalo - 10000
-Villes avec des anomalies de population: Kuusamo - 17400
-Villes avec des anomalies de population: Kemi/Tornio - 10000
-Villes avec des anomalies de population: Kokkola/Pietarsaari - 10000
-Villes avec des anomalies de population: Kittila - 10000
-Villes avec des anomalies de population: Seinajoki - 10000
-Villes avec des anomalies de population: Savonlinna - 27353
-Villes avec des anomalies de population: Varkaus - 22365
-Villes avec des anomalies de population: Dubrovnik - 26922
-Villes avec des anomalies de population: Ardabil - 10000
-Villes avec des anomalies de population: Mashad - 10000
-Villes avec des anomalies de population: Urmieh - 10000
-Villes avec des anomalies de population: Ramsar - 10000
-Villes avec des anomalies de population: Tabas - 49993
-Villes avec des anomalies de population: Birjand - 10000
-Villes avec des anomalies de population: Rebun - 10000
-Villes avec des anomalies de population: Rishiri - 10000
-Villes avec des anomalies de population: Kingscote - 10000
-Villes avec des anomalies de population: Katherine - 10000
-Villes avec des anomalies de population: Fera Island - 10000
-Villes avec des anomalies de population: Gizo - 10000
-Villes avec des anomalies de population: Wanigela - 10000
-Villes avec des anomalies de population: Amazon Bay - 10000
-Villes avec des anomalies de population: Buka - 10000
-Villes avec des anomalies de population: Bulolo - 16042
-Villes avec des anomalies de population: Kundiawa - 10000
-Villes avec des anomalies de population: Daru - 15214
-Villes avec des anomalies de population: Goroka - 18503
-Villes avec des anomalies de population: Alotau - 10000
-Villes avec des anomalies de population: Mount Hagen - 33623
-Villes avec des anomalies de population: Hoskins - 10000
-Villes avec des anomalies de population: Kokoda - 10000
-Villes avec des anomalies de population: Kerema - 10000
-Villes avec des anomalies de population: Kavieng - 10000
-Villes avec des anomalies de population: Lihir Island - 10000
-Villes avec des anomalies de population: Losuia - 10000
-Villes avec des anomalies de population: Madang - 27419
-Villes avec des anomalies de population: Manus Island - 10000
-Villes avec des anomalies de population: Mendi - 26252
-Villes avec des anomalies de population: Balimo - 10000
-Villes avec des anomalies de population: Popondetta - 28198
-Villes avec des anomalies de population: Rabaul - 10000
-Villes avec des anomalies de population: Tabubil - 10000
-Villes avec des anomalies de population: Tetabedi - 10000
-Villes avec des anomalies de population: Tufi - 10000
-Villes avec des anomalies de population: Tari - 10000
-Villes avec des anomalies de population: Kiunga - 10000
-Villes avec des anomalies de population: Wapenamanda - 10000
-Villes avec des anomalies de population: Wewak - 18230
-Villes avec des anomalies de population: St George - 10000
-Villes avec des anomalies de population: Oranjemund - 10000
-Villes avec des anomalies de population: Numbulwar - 10000
-Villes avec des anomalies de population: Sumbawa - 10000
-Villes avec des anomalies de population: Rodrigues Island - 10000
-Villes avec des anomalies de population: St Pierre de la Reunion - 10000
-Villes avec des anomalies de population: Rosh Pina - 10000
-Villes avec des anomalies de population: Hotan - 408894
-Villes avec des anomalies de population: Kashi - 10000
-Villes avec des anomalies de population: Yining - 10000
-Villes avec des anomalies de population: Kos - 19244
-Villes avec des anomalies de population: Gan Island - 10000
-Villes avec des anomalies de population: Kadhdhoo - 10000
-Villes avec des anomalies de population: Karshi - 10000
-Villes avec des anomalies de population: Funafuti Atol - 10000
-Villes avec des anomalies de population: Cicia - 10000
-Villes avec des anomalies de population: Moala - 10000
-Villes avec des anomalies de population: Ngau Island - 10000
-Villes avec des anomalies de population: Rotuma Island - 10000
-Villes avec des anomalies de population: Vanuabalavu - 10000
-Villes avec des anomalies de population: Aktyubinsk - 10000
-Villes avec des anomalies de population: Aktau - 10000
-Villes avec des anomalies de population: Uralsk - 10000
-Villes avec des anomalies de population: Blagoveschensk - 10000
-Villes avec des anomalies de population: Komsomolsk Na Amure - 10000
-Villes avec des anomalies de population: Polyarnyj - 10000
-Villes avec des anomalies de population: Karpathos - 10000
-Villes avec des anomalies de population: Alexandroupolis - 10000
-Villes avec des anomalies de population: Kerkyra - 10000
-Villes avec des anomalies de population: Chania - 10000
-Villes avec des anomalies de population: Kefallinia - 10000
-Villes avec des anomalies de population: Ioannina - 10000
-Villes avec des anomalies de population: Chios - 23953
-Villes avec des anomalies de population: Mikonos - 10000
-Villes avec des anomalies de population: Naxos Is - 10000
-Villes avec des anomalies de population: Sitia - 10000
-Villes avec des anomalies de population: Syros Island - 10000
-Villes avec des anomalies de population: Thira - 10000
-Villes avec des anomalies de population: Kithira - 10000
-Villes avec des anomalies de population: Kavala - 10000
-Villes avec des anomalies de population: Kozani - 10000
-Villes avec des anomalies de population: Leros - 10000
-Villes avec des anomalies de population: Lemnos - 10000
-Villes avec des anomalies de population: Mytilene - 28322
-Villes avec des anomalies de population: Milos - 10000
-Villes avec des anomalies de population: Preveza/Lefkas - 10000
-Villes avec des anomalies de population: Samos - 10000
-Villes avec des anomalies de population: Zakinthos - 10000
-Villes avec des anomalies de population: Kastoria - 10000
-Villes avec des anomalies de population: Dzaoudzi - 15339
-Villes avec des anomalies de population: Nossi-Be - 10000
-Villes avec des anomalies de population: Praslin Island - 10000
-Villes avec des anomalies de population: Gilgit - 10000
-Villes avec des anomalies de population: Rawala Kot - 10000
-Villes avec des anomalies de population: Valesdir - 10000
-Villes avec des anomalies de population: Aniwa - 10000
-Villes avec des anomalies de population: Sara - 10000
-Villes avec des anomalies de population: Maewo - 10000
-Villes avec des anomalies de population: Redcliffe - 10000
-Villes avec des anomalies de population: Walaha - 10000
-Villes avec des anomalies de population: Olpoi - 10000
-Villes avec des anomalies de population: Gaua - 10000
-Villes avec des anomalies de population: Ulei - 10000
-Villes avec des anomalies de population: Saranac Lake - 10000
-Villes avec des anomalies de population: Plattsburgh - 19806
-Villes avec des anomalies de population: Poughkeepsie - 30371
-Villes avec des anomalies de population: Saarbrucken - 10000
-Villes avec des anomalies de population: Andros Town - 10000
-Villes avec des anomalies de population: Deadmans Cay - 10000
-Villes avec des anomalies de population: San Andros - 10000
-Villes avec des anomalies de population: Palmar - 10000
-Villes avec des anomalies de population: Arad - 27967
-Villes avec des anomalies de population: Sao Vicente - 10000
-Villes avec des anomalies de population: Ottumwa - 24624
-Villes avec des anomalies de population: Westerland - 10000
-Villes avec des anomalies de population: Mattoon - 18113
-Villes avec des anomalies de population: Rzeszow - 10000
-Villes avec des anomalies de population: Iqaluit - 10000
-Villes avec des anomalies de population: Berens River - 10000
-Villes avec des anomalies de population: Flin Flon - 10000
-Villes avec des anomalies de population: Gods Narrows - 10000
-Villes avec des anomalies de population: Dryden - 10000
-Villes avec des anomalies de population: Island Lake/Garden Hill - 10000
-Villes avec des anomalies de population: Norway House - 10000
-Villes avec des anomalies de population: Oxford House - 10000
-Villes avec des anomalies de population: Pikangikum - 10000
-Villes avec des anomalies de population: The Pas - 10000
-Villes avec des anomalies de population: Red Lake - 10000
-Villes avec des anomalies de population: Ste Therese Point - 10000
-Villes avec des anomalies de population: Thompson - 10000
-Villes avec des anomalies de population: Sioux Lookout - 10000
-Villes avec des anomalies de population: Churchill - 10000
-Villes avec des anomalies de population: Gods River - 10000
-Villes avec des anomalies de population: Bikini Atoll - 10000
-Villes avec des anomalies de population: Likiep Island - 10000
-Villes avec des anomalies de population: Majkin - 10000
-Villes avec des anomalies de population: Ujae Island - 10000
-Villes avec des anomalies de population: Wotho Island - 10000
-Villes avec des anomalies de population: Lae Island - 10000
-Villes avec des anomalies de population: Iasi - 10000
-Villes avec des anomalies de population: Tirgu Mures - 10000
-Villes avec des anomalies de population: Benbecula - 10000
-Villes avec des anomalies de population: Barra - 20894
-Villes avec des anomalies de population: Campbeltown - 10000
-Villes avec des anomalies de population: Stornoway - 10000
-Villes avec des anomalies de population: Tiree - 10000
-Villes avec des anomalies de population: Ivano-Frankovsk - 10000
-Villes avec des anomalies de population: Tivat - 10000
-Villes avec des anomalies de population: Forde - 10000
-Villes avec des anomalies de population: Floro - 10000
-Villes avec des anomalies de population: Palanga - 18207
-Villes avec des anomalies de population: Sogndal - 10000
-Villes avec des anomalies de population: Stord - 10000
-Villes avec des anomalies de population: Akureyri - 19219
-Villes avec des anomalies de population: Bildudalur - 10000
-Villes avec des anomalies de population: Egilsstadir - 10000
-Villes avec des anomalies de population: Hornafjordur - 10000
-Villes avec des anomalies de population: Isafjordur - 10000
-Villes avec des anomalies de population: Kulusuk Island - 10000
-Villes avec des anomalies de population: Saudarkrokur - 10000
-Villes avec des anomalies de population: Vestmannaeyjar - 10000
-Villes avec des anomalies de population: St Eustatius - 10000
-Villes avec des anomalies de population: Saba - 10000
-Villes avec des anomalies de population: Bacau - 10000
-Villes avec des anomalies de population: Deer Lake - 10000
-Villes avec des anomalies de population: Iles de la Madeleine - 10000
-Villes avec des anomalies de population: Stephenville - 20120
-Villes avec des anomalies de population: Yarmouth - 25243
-Villes avec des anomalies de population: Sept-Iles - 10000
-Villes avec des anomalies de population: Kingman - 28912
-Villes avec des anomalies de population: Lewistown - 10000
-Villes avec des anomalies de population: Miles City - 10000
-Villes avec des anomalies de population: Wolf Point - 10000
-Villes avec des anomalies de population: Sidney - 20858
-Villes avec des anomalies de population: Anaktuvuk Pass - 10000
-Villes avec des anomalies de population: Bettles - 10000
-Villes avec des anomalies de population: Circle - 10000
-Villes avec des anomalies de population: Sitka - 10000
-Villes avec des anomalies de population: Yakutat - 10000
-Villes avec des anomalies de population: Hollis - 20269
-Villes avec des anomalies de population: Craig - 10000
-Villes avec des anomalies de population: Dolomi - 10000
-Villes avec des anomalies de population: Point Baker - 10000
-Villes avec des anomalies de population: Waterfall - 10000
-Villes avec des anomalies de population: Long Island - 10000
-Villes avec des anomalies de population: Fort Chipewyan - 10000
-Villes avec des anomalies de population: Resolute - 10000
-Villes avec des anomalies de population: Moosonee - 10000
-Villes avec des anomalies de population: Fort Frances - 10000
-Villes avec des anomalies de population: Fort Hope - 10000
-Villes avec des anomalies de population: Kenora - 15096
-Villes avec des anomalies de population: Webequie - 10000
-Villes avec des anomalies de population: Kapuskasing - 10000
-Villes avec des anomalies de population: St Anthony - 10000
-Villes avec des anomalies de population: Goose Bay - 10000
-Villes avec des anomalies de population: Gillies Bay - 10000
-Villes avec des anomalies de population: Fort Nelson - 10000
-Villes avec des anomalies de population: Dawson Creek - 10000
-Villes avec des anomalies de population: Bella Bella - 10000
-Villes avec des anomalies de population: Balmaceda - 10000
-Villes avec des anomalies de population: Kirkwall - 10000
-Villes avec des anomalies de population: Wick - 10000
-Villes avec des anomalies de population: Angouleme - 10000
-Villes avec des anomalies de population: Alderney - 10000
-Villes avec des anomalies de population: Rostock-Laage - 10000
-Villes avec des anomalies de population: Nordholz-Spieka - 10000
-Villes avec des anomalies de population: Kastelorizo - 10000
-Villes avec des anomalies de population: Levelock - 10000
-Villes avec des anomalies de population: South Naknek - 10000
-Villes avec des anomalies de population: Chuathbaluk - 10000
-Villes avec des anomalies de population: Kalskag - 10000
-Villes avec des anomalies de population: Shageluk - 10000
-Villes avec des anomalies de population: Sleetmute - 10000
-Villes avec des anomalies de population: Russian Mission - 10000
-Villes avec des anomalies de population: Stony River - 10000
-Villes avec des anomalies de population: Atmautluak - 10000
-Villes avec des anomalies de population: Alakanuk - 10000
-Villes avec des anomalies de population: Cape Romanzof - 10000
-Villes avec des anomalies de population: Goodnews Bay - 10000
-Villes avec des anomalies de population: Hooper Bay - 10000
-Villes avec des anomalies de population: Kipnuk - 10000
-Villes avec des anomalies de population: Kwigillingok - 10000
-Villes avec des anomalies de population: Kwethluk - 10000
-Villes avec des anomalies de population: Marshall - 23820
-Villes avec des anomalies de population: Mekoryuk - 10000
-Villes avec des anomalies de population: Toksook Bay - 10000
-Villes avec des anomalies de population: Scammon Bay - 10000
-Villes avec des anomalies de population: Togiak - 10000
-Villes avec des anomalies de population: Chevak - 10000
-Villes avec des anomalies de population: Napakiak - 10000
-Villes avec des anomalies de population: Tuntutuliak - 10000
-Villes avec des anomalies de population: Eek - 10000
-Villes avec des anomalies de population: Napaskiak - 10000
-Villes avec des anomalies de population: Tuluksak - 10000
-Villes avec des anomalies de population: Newtok - 10000
-Villes avec des anomalies de population: Clarks Point - 10000
-Villes avec des anomalies de population: Cape Newenham - 10000
-Villes avec des anomalies de population: Ekwok - 10000
-Villes avec des anomalies de population: Koliganek - 10000
-Villes avec des anomalies de population: Ekuk - 10000
-Villes avec des anomalies de population: Portage Creek - 10000
-Villes avec des anomalies de population: Aleknagik - 10000
-Villes avec des anomalies de population: Atka - 10000
-Villes avec des anomalies de population: Nikolski - 10000
-Villes avec des anomalies de population: Akutan - 10000
-Villes avec des anomalies de population: Seldovia - 10000
-Villes avec des anomalies de population: Port Alsworth - 10000
-Villes avec des anomalies de population: Chignik - 10000
-Villes avec des anomalies de population: Ivanof Bay - 10000
-Villes avec des anomalies de population: Atqasuk - 10000
-Villes avec des anomalies de population: Point Lay - 10000
-Villes avec des anomalies de population: Kotlik - 10000
-Villes avec des anomalies de population: Mountain Village - 10000
-Villes avec des anomalies de population: Sheldon Point - 10000
-Villes avec des anomalies de population: Williston - 26977
-Villes avec des anomalies de population: Yankton - 10000
-Villes avec des anomalies de population: Makale - 10000
-Villes avec des anomalies de population: Ust-Ilimsk - 10000
-Villes avec des anomalies de population: Kardla - 10000
-Villes avec des anomalies de population: Luderitz - 10000
-Villes avec des anomalies de population: Mpacha - 10000
-Villes avec des anomalies de population: Mokuti Lodge - 10000
-Villes avec des anomalies de population: Ondangwa - 10000
-Villes avec des anomalies de population: Swakopmund - 25047
-Villes avec des anomalies de population: Havasupai - 10000
-Villes avec des anomalies de population: Cobija - 26585
-Villes avec des anomalies de population: Gulu - 22331
-Villes avec des anomalies de population: Pantelleria - 10000
-Villes avec des anomalies de population: Aldan - 24426
-Villes avec des anomalies de population: Watertown - 31915
-Villes avec des anomalies de population: International Falls - 10000
-Villes avec des anomalies de population: Thief River Falls - 10000
-Villes avec des anomalies de population: Huron - 10000
-Villes avec des anomalies de population: Hibbing/Chisholm - 10000
-Villes avec des anomalies de population: Devils Lake - 10000
-Villes avec des anomalies de population: Fort Dodge - 24649
-Villes avec des anomalies de population: Kenieba - 10000
-Villes avec des anomalies de population: Nema - 10000
-Villes avec des anomalies de population: Ambatomainty - 10000
-Villes avec des anomalies de population: Antalaha - 34112
-Villes avec des anomalies de population: Belo - 10000
-Villes avec des anomalies de population: Fort Dauphin - 10000
-Villes avec des anomalies de population: Majunga - 10000
-Villes avec des anomalies de population: Mananjary - 27686
-Villes avec des anomalies de population: Maintirano - 25788
-Villes avec des anomalies de population: Tulear - 10000
-Villes avec des anomalies de population: Tsaratanana - 16761
-Villes avec des anomalies de population: Morafenobe - 10000
-Villes avec des anomalies de population: Maroantsetra - 23859
-Villes avec des anomalies de population: Massena - 10000
-Villes avec des anomalies de population: Ogdensburg - 10000
-Villes avec des anomalies de population: Torsby - 10000
-Villes avec des anomalies de population: Waskaganish - 10000
-Villes avec des anomalies de population: Inukjuak - 10000
-Villes avec des anomalies de population: Sanikiluaq - 10000
-Villes avec des anomalies de population: Chisasibi - 10000
-Villes avec des anomalies de population: Kangirsuk - 10000
-Villes avec des anomalies de population: Puvirnituq - 10000
-Villes avec des anomalies de population: Tasiujuaq - 10000
-Villes avec des anomalies de population: Gaspe - 10000
-Villes avec des anomalies de population: Kufrah - 10000
-Villes avec des anomalies de population: Ghat - 24347
-Villes avec des anomalies de population: Rachgia - 10000
-Villes avec des anomalies de population: Nuuk - 14798
-Villes avec des anomalies de population: Ilulissat - 10000
-Villes avec des anomalies de population: Aasiaat - 10000
-Villes avec des anomalies de population: Sisimiut - 10000
-Villes avec des anomalies de population: Maniitsoq - 10000
-Villes avec des anomalies de population: Qaqortoq - 10000
-Villes avec des anomalies de population: Nanortalik - 10000
-Villes avec des anomalies de population: Narsaq - 10000
-Villes avec des anomalies de population: Alluitsup Paa - 10000
-Villes avec des anomalies de population: Wudinna - 10000
-Villes avec des anomalies de population: Ngukurr - 10000
-Villes avec des anomalies de population: Balalae - 10000
-Villes avec des anomalies de population: Choiseul Bay - 10000
-Villes avec des anomalies de population: Mono - 10000
-Villes avec des anomalies de population: Cape Vogel - 10000
-Villes avec des anomalies de population: Nissan Island - 10000
-Villes avec des anomalies de population: Rabaraba - 10000
-Villes avec des anomalies de population: Salamo - 10000
-Villes avec des anomalies de population: Wedau - 10000
-Villes avec des anomalies de population: Sehulea - 10000
-Villes avec des anomalies de population: Vivigani - 10000
-Villes avec des anomalies de population: Gasmata - 10000
-Villes avec des anomalies de population: Jacquinot Bay - 10000
-Villes avec des anomalies de population: Kandrian - 10000
-Villes avec des anomalies de population: Linga Linga - 10000
-Villes avec des anomalies de population: Uvol - 10000
-Villes avec des anomalies de population: Ihu - 10000
-Villes avec des anomalies de population: Kikori - 10000
-Villes avec des anomalies de population: Emirau - 10000
-Villes avec des anomalies de population: Mapua - 10000
-Villes avec des anomalies de population: Mussau - 10000
-Villes avec des anomalies de population: Garaina - 10000
-Villes avec des anomalies de population: Indagen - 10000
-Villes avec des anomalies de population: Lablab - 10000
-Villes avec des anomalies de population: Menyamya - 10000
-Villes avec des anomalies de population: Namatanai - 10000
-Villes avec des anomalies de population: Boang - 10000
-Villes avec des anomalies de population: Saidor - 10000
-Villes avec des anomalies de population: Ioma - 10000
-Villes avec des anomalies de population: Itokama - 10000
-Villes avec des anomalies de population: Safia - 10000
-Villes avec des anomalies de population: Open Bay - 10000
-Villes avec des anomalies de population: Silur - 10000
-Villes avec des anomalies de population: Sule - 10000
-Villes avec des anomalies de population: Telefomin - 10000
-Villes avec des anomalies de population: Garasa - 10000
-Villes avec des anomalies de population: Kaintiba - 10000
-Villes avec des anomalies de population: Tekadu - 10000
-Villes avec des anomalies de population: Hayfields - 10000
-Villes avec des anomalies de population: Vanimo - 10000
-Villes avec des anomalies de population: Cunnamulla - 10000
-Villes avec des anomalies de population: Mfuwe - 10000
-Villes avec des anomalies de population: Borroloola - 10000
-Villes avec des anomalies de population: Halls Creek - 10000
-Villes avec des anomalies de population: Qiemo - 18893
-Villes avec des anomalies de population: Kasos Island - 10000
-Villes avec des anomalies de population: Astypalaia Island - 10000
-Villes avec des anomalies de population: Berau - 10000
-Villes avec des anomalies de population: Long Bawan - 10000
-Villes avec des anomalies de population: Ambanja - 30621
-Villes avec des anomalies de population: Mandritsara - 10000
-Villes avec des anomalies de population: Bourke - 10000
-Villes avec des anomalies de population: Sola - 10000
-Villes avec des anomalies de population: Maio - 10000
-Villes avec des anomalies de population: Clyde River - 10000
-Villes avec des anomalies de population: Igloolik - 10000
-Villes avec des anomalies de population: Kimmirut/Lake Harbour - 10000
-Villes avec des anomalies de population: Cape Dorset - 10000
-Villes avec des anomalies de population: Hall Beach - 10000
-Villes avec des anomalies de population: Broughton Island - 10000
-Villes avec des anomalies de population: Pangnirtung - 10000
-Villes avec des anomalies de population: Nanisivik - 10000
-Villes avec des anomalies de population: Red Sucker Lake - 10000
-Villes avec des anomalies de population: Poplar Hill - 10000
-Villes avec des anomalies de population: Deer Lake - 10000
-Villes avec des anomalies de population: Lac Brochet - 10000
-Villes avec des anomalies de population: Pukatawagan - 10000
-Villes avec des anomalies de population: Tadoule Lake - 10000
-Villes avec des anomalies de population: Brochet - 10000
-Villes avec des anomalies de population: Leaf Rapids - 10000
-Villes avec des anomalies de population: York Landing - 10000
-Villes avec des anomalies de population: Shamattawa - 10000
-Villes avec des anomalies de population: Kingfisher Lake - 10000
-Villes avec des anomalies de population: Muskrat Dam - 10000
-Villes avec des anomalies de population: Kasabonika - 10000
-Villes avec des anomalies de population: Cat Lake - 10000
-Villes avec des anomalies de population: Fort Severn - 10000
-Villes avec des anomalies de population: Pickle Lake - 10000
-Villes avec des anomalies de population: Big Trout Lake - 10000
-Villes avec des anomalies de population: Round Lake - 18461
-Villes avec des anomalies de population: Sandy Lake - 10000
-Villes avec des anomalies de population: Rost - 10000
-Villes avec des anomalies de population: Siglufjordur - 10000
-Villes avec des anomalies de population: Havre St Pierre - 10000
-Villes avec des anomalies de population: Chevery - 10000
-Villes avec des anomalies de population: Schefferville - 10000
-Villes avec des anomalies de population: Natashquan - 10000
-Villes avec des anomalies de population: Wabush - 10000
-Villes avec des anomalies de population: Havre - 10000
-Villes avec des anomalies de population: Glendive - 10000
-Villes avec des anomalies de population: Central - 28295
-Villes avec des anomalies de population: Northway - 10000
-Villes avec des anomalies de population: Chisana - 10000
-Villes avec des anomalies de population: Grise Fiord - 10000
-Villes avec des anomalies de population: Arctic Bay - 10000
-Villes avec des anomalies de population: Attawapiskat - 10000
-Villes avec des anomalies de population: Fort Albany - 10000
-Villes avec des anomalies de population: Lansdowne House - 10000
-Villes avec des anomalies de population: Nakina - 10000
-Villes avec des anomalies de population: Hearst - 10000
-Villes avec des anomalies de population: Blanc Sablon - 10000
-Villes avec des anomalies de population: Mary's Harbour - 10000
-Villes avec des anomalies de population: Nain - 10000
-Villes avec des anomalies de population: Makkovik - 10000
-Villes avec des anomalies de population: Rigolet - 10000
-Villes avec des anomalies de population: Klemtu - 10000
-Villes avec des anomalies de population: Eday - 10000
-Villes avec des anomalies de population: Sanday - 10000
-Villes avec des anomalies de population: North Ronaldsay - 10000
-Villes avec des anomalies de population: Papa Westray - 10000
-Villes avec des anomalies de population: Stronsay - 10000
-Villes avec des anomalies de population: Westray - 10000
-Villes avec des anomalies de population: Helgoland - 10000
-Villes avec des anomalies de population: Igiugig - 10000
-Villes avec des anomalies de population: Crooked Creek - 10000
-Villes avec des anomalies de population: Red Devil - 10000
-Villes avec des anomalies de population: Platinum - 10000
-Villes avec des anomalies de population: Akiachak - 10000
-Villes avec des anomalies de population: Akiak - 10000
-Villes avec des anomalies de population: New Stuyahok - 10000
-Villes avec des anomalies de population: Nanwalek - 10000
-Villes avec des anomalies de population: Neghelli - 10000
-Villes avec des anomalies de population: Gambela - 10000
-Villes avec des anomalies de population: Tippi - 10000
-Villes avec des anomalies de population: Goundam - 10000
-Villes avec des anomalies de population: Tombouctou - 10000
-Villes avec des anomalies de population: Ngaoundere - 10000
-Villes avec des anomalies de population: Besalampy - 10000
-Villes avec des anomalies de population: Soalala - 10000
-Villes avec des anomalies de population: Analalava - 10000
-Villes avec des anomalies de population: Mampikony - 10000
-Villes avec des anomalies de population: Port Berge - 10000
-Villes avec des anomalies de population: Tambohorano - 10000
-Villes avec des anomalies de population: Manja - 10000
-Villes avec des anomalies de population: Morombe - 10000
-Villes avec des anomalies de population: Antsalova - 10000
-Villes avec des anomalies de population: East Main - 10000
-Villes avec des anomalies de population: Akulivik - 10000
-Villes avec des anomalies de population: Salluit - 10000
-Villes avec des anomalies de population: Qasigiannguit - 10000
-Villes avec des anomalies de population: Qeqertarsuaq - 10000
-Villes avec des anomalies de population: Kalkurung - 10000
-Villes avec des anomalies de population: Agaun - 10000
-Villes avec des anomalies de population: Aragip - 10000
-Villes avec des anomalies de population: Biniguni - 10000
-Villes avec des anomalies de population: Gonalia - 10000
-Villes avec des anomalies de population: Wasum - 10000
-Villes avec des anomalies de population: Baimuru - 10000
-Villes avec des anomalies de population: Kanabea - 10000
-Villes avec des anomalies de population: Kamusi - 10000
-Villes avec des anomalies de population: Konge - 10000
-Villes avec des anomalies de population: Malekolon - 10000
-Villes avec des anomalies de population: Dodoima - 10000
-Villes avec des anomalies de population: Kira - 10000
-Villes avec des anomalies de population: Embessa - 10000
-Villes avec des anomalies de population: Green River - 10000
-Villes avec des anomalies de population: Nuku - 10000
-Villes avec des anomalies de population: Aitape - 10000
-Villes avec des anomalies de population: Kasaba Bay - 10000
-Villes avec des anomalies de population: Kubin Island - 10000
-Villes avec des anomalies de population: Murray Island - 10000
-Villes avec des anomalies de population: Darnley Island - 10000
-Villes avec des anomalies de population: Billiluna - 10000
-Villes avec des anomalies de population: Forbes - 10000
-Villes avec des anomalies de population: West Wyalong - 10000
-Villes avec des anomalies de population: Young - 16756
-Villes avec des anomalies de population: Cootamundra - 10000
-Villes avec des anomalies de population: Mota Lava - 10000
-Villes avec des anomalies de population: Torres - 32791
-Villes avec des anomalies de population: Pond Inlet - 10000
-Villes avec des anomalies de population: North Spirit Lake - 10000
-Villes avec des anomalies de population: Sachigo Lake - 10000
-Villes avec des anomalies de population: Angling Lake - 10000
-Villes avec des anomalies de population: Bearskin Lake - 10000
-Villes avec des anomalies de population: Pakuashipi - 10000
-Villes avec des anomalies de population: Gethsemani - 10000
-Villes avec des anomalies de population: La Tabatiere - 10000
-Villes avec des anomalies de population: Tete-a-La Baleine - 10000
-Villes avec des anomalies de population: Kegaska - 10000
-Villes avec des anomalies de population: Peawanuck - 10000
-Villes avec des anomalies de population: Kaschechewan - 10000
-Villes avec des anomalies de population: Ogoki - 10000
-Villes avec des anomalies de population: Davis Inlet - 10000
-Villes avec des anomalies de population: Hopedale - 10000
-Villes avec des anomalies de population: Postville - 10000
-Villes avec des anomalies de population: Anvik - 10000
-Villes avec des anomalies de population: Mizan Teferi - 10000
-Villes avec des anomalies de population: Tum - 10000
-Villes avec des anomalies de population: Soyo - 10000
-Villes avec des anomalies de population: Nkayi - 10000
-Villes avec des anomalies de population: Ankavandra - 10000
-Villes avec des anomalies de population: Ivujivik - 10000
-Villes avec des anomalies de population: Pumani - 10000
-Villes avec des anomalies de population: Manguna - 10000
-Villes avec des anomalies de population: Kuri - 10000
-Villes avec des anomalies de population: Kabwum - 10000
-Villes avec des anomalies de population: Anguganak - 10000
-Villes avec des anomalies de population: Lumi - 10000
-Villes avec des anomalies de population: Miandrivazo - 20631
-Villes avec des anomalies de population: Gewoya - 10000
-Villes avec des anomalies de population: Black Tickle - 10000
-Villes avec des anomalies de population: Port Hope Simpson - 10000
-Villes avec des anomalies de population: Williams Harbour - 10000
+Bora Bora - 10000
+Huahine - 10000
+Moorea - 10000
+Raiatea Island - 10000
+Rangiroa Island - 10000
+Rurutu - 10000
+Tikehau Atoll - 10000
+Takaroa - 10000
+Tubuai - 10000
+Manihi - 10000
+Blenheim - 28800
+Hamilton - 902
+Nelson - 29317
+Nuku'alofa - 10000
+Port Vila - 10000
+Wanganui - 10000
+Wellington - 22816
+Johnston Island - 10000
+Majuro - 25400
+Pago Pago - 11500
+Koumac - 10000
+Maupiti Island - 10000
+Takapoto - 10000
+Oshima - 10000
+Futuna - 10000
+Maota Savail Is - 10000
+Blackall - 10000
+Charleville - 10000
+Gladstone - 30489
+Nauru Island - 10000
+Mount Isa - 22785
+Longreach - 10000
+Maryborough - 15479
+Sunshine Coast - 10000
+Roma - 10000
+Parana - 10000
+Rio Cuarto - 10000
+Rio Gallegos - 10000
+Chatham Island - 10000
+Mount Cook - 10000
+Cooktown - 10000
+Coen - 10000
+Edward River - 10000
+Gove - 10000
+Lockhart River - 10000
+Karumba - 10000
+Kowanyama - 10000
+Lizard Island - 10000
+Normanton - 10000
+Yorke Island - 10000
+Savusavu - 10000
+Taveuni - 10000
+Albany - 33650
+Esperance - 10000
+Kalgoorlie - 10000
+Margaret River - 10000
+Te Anau - 10000
+Bathurst - 33110
+Griffith - 18154
+Eua - 10000
+Ha'apai - 10000
+Vava'u - 10000
+Dillons Bay - 10000
+Emae - 10000
+Ipota - 10000
+Lamen Bay - 10000
+Lonorore - 10000
+Longana - 10000
+Lamap - 10000
+Norsup - 10000
+Espiritu Santo - 10000
+South West Bay - 10000
+Tanna - 10000
+Tongoa - 10000
+Craig Cove - 10000
+Timaru - 28600
+Westport - 26391
+Wanaka - 10000
+Pohnpei - 10000
+Airok - 10000
+Aur Island - 10000
+Jabot - 10000
+Jeh - 10000
+Kaben - 10000
+Kwajalein - 10000
+Ebon - 10000
+Kili Island - 10000
+Maloelap Island - 10000
+Mili Island - 10000
+Jaluit Island - 10000
+Utirik Island - 10000
+Woja - 10000
+Wotje Island - 10000
+Culion - 10000
+Montrose - 19062
+Ofu - 10000
+Tau - 10000
+Port Angeles - 19448
+Fairbanks - 32325
+Juneau - 32756
+Ketchikan - 10000
+Fort Mcmurray - 10000
+High Level - 10000
+Peace River - 10000
+Yellowknife - 20340
+Hay River - 10000
+Rainbow Lake - 10000
+Sault Ste Marie - 10000
+Sudbury - 22213
+Fort St John - 10000
+Whitehorse - 28201
+Alamogordo - 30753
+Gallup - 23240
+Los Alamos - 10000
+Silver City - 10000
+Bergen - 29974
+King Salmon - 10000
+Aniak - 10000
+Bethel - 10000
+Cold Bay - 10000
+Dillingham - 10000
+Dutch Harbor - 10000
+Galena - 10000
+Homer - 10000
+Mcgrath - 10000
+Nome - 10000
+Kotzebue - 10000
+Port Heiden - 10000
+Prudhoe Bay/Deadhorse - 10000
+Unalakleet - 10000
+Barrow - 10000
+St Marys - 10000
+Alliance - 22055
+Chadron - 10000
+Dickinson - 19895
+Kearney - 33021
+Garden City - 26920
+Hays - 21092
+North Platte - 24194
+Liberal - 20746
+Mccook - 10000
+Pierre - 10000
+Kerry County - 10000
+North Eleuthera - 10000
+Inagua - 10000
+Rio Dulce - 10000
+Ely - 19090
+Grand Canyon - 10000
+Cuzco - 10000
+Huanuco - 10000
+Jauja - 21057
+La Paz - 24716
+Tarapoto - 10000
+Greenville - 16434
+Dodge City - 27912
+Great Bend - 15717
+Bemidji - 10000
+Brookings - 23657
+Brainerd - 10000
+Jamestown - 637
+Mason City - 27366
+St Cloud - 10000
+Altoona - 16984
+Watertown - 31915
+Cumberland - 20130
+Johnstown - 19966
+Latrobe - 10000
+Hamilton - 902
+Bocas del Toro - 10000
+Changuinola - 17997
+El Real - 10000
+La Palma - 15904
+Criciuma - 10000
+Mayaguez - 10000
+Arvidsjaur - 10000
+Hagfors - 10000
+Kiruna - 17037
+Lulea - 10000
+Lycksele - 10000
+Norrkoping - 10000
+Ronneby - 10000
+Soderhamn - 10000
+Storuman - 10000
+Umea - 10000
+Visby - 23402
+Vilhelmina - 10000
+Kuujjuarapik - 10000
+Mont Joli - 10000
+Belep Island - 10000
+Chi Mei - 10000
+Bulgan - 17348
+Kangerlussuaq - 10000
+Narsarsuaq - 10000
+Kemi/Tornio - 10000
+Savonlinna - 27353
+Ramsar - 10000
+Rebun - 10000
+Asau - 10000
+Broken Hill - 18027
+Quilpie - 10000
+Garden Point - 10000
+Maningrida - 10000
+Auki - 10000
+Bellona - 10000
+Sege - 10000
+Fera Island - 10000
+Gizo - 10000
+Kirakira - 10000
+Munda - 10000
+Parasi - 10000
+Santa Cruz Island - 10000
+Suavanao - 10000
+Rennell - 10000
+Brampton Island - 10000
+Boulia - 10000
+Doomadgee Mission - 10000
+Winton - 10000
+Amazon Bay - 10000
+Bulolo - 16042
+Daru - 15214
+Goroka - 18503
+Alotau - 10000
+Mount Hagen - 33623
+Hoskins - 10000
+Kokoda - 10000
+Kerema - 10000
+Kavieng - 10000
+Lihir Island - 10000
+Losuia - 10000
+Madang - 27419
+Manus Island - 10000
+Mendi - 26252
+Popondetta - 28198
+Rabaul - 10000
+Tabubil - 10000
+Tari - 10000
+Kiunga - 10000
+Wewak - 18230
+Kempsey - 10000
+Hughenden - 10000
+St George - 10000
+El Yopal - 10000
+El Bolson - 10000
+Oranjemund - 10000
+Springbok - 10000
+Perito Moreno - 10000
+Puerto Deseado - 10000
+Malargue - 10000
+San Antonio Oeste - 16966
+Santo Angelo - 10000
+President Roque Saenz Pena - 10000
+Lago Argentino - 10000
+Rio Turbio - 10000
+Santa Cruz - 27775
+El Maiten - 10000
+Elcho Island - 10000
+Lake Evella - 10000
+Numbulwar - 10000
+Mornington Island - 10000
+Thursday Island - 10000
+Coconut Island - 10000
+Warraber Island - 10000
+Yam Island - 10000
+Fitzroy Crossing - 10000
+Bario - 10000
+Mulu - 10000
+Cicia - 10000
+Koro Island - 10000
+Bureta - 10000
+Moala - 10000
+Ngau Island - 10000
+Vanuabalavu - 10000
+Laucala Island - 10000
+Kalbarri - 10000
+Balgo Hills - 10000
+Kozani - 10000
+Brewarrina - 10000
+Cobar - 10000
+Nyngan - 10000
+Coonabarabran - 10000
+Singleton - 10000
+Orchid Island - 10000
+Valesdir - 10000
+Aniwa - 10000
+Sara - 10000
+Maewo - 10000
+Redcliffe - 10000
+Walaha - 10000
+Olpoi - 10000
+Gaua - 10000
+Aneityum - 10000
+Futuna Island - 10000
+Ulei - 10000
+Cayman Brac - 10000
+Andros Town - 10000
+Arthur's Town - 10000
+Spring Point - 10000
+Crooked Island - 10000
+Deadmans Cay - 10000
+Mangrove Cay - 10000
+Mayaguana - 10000
+Rock Sound - 10000
+San Andros - 10000
+Stella Maris - 10000
+South Andros - 10000
+Barra Colorado - 10000
+Tamarindo - 10000
+Tortola - 10000
+Spencer - 10000
+Ottumwa - 24624
+Mattoon - 18113
+Iqaluit - 10000
+Berens River - 10000
+Dauphin - 10000
+Flin Flon - 10000
+Gods Narrows - 10000
+Dryden - 10000
+Island Lake/Garden Hill - 10000
+Norway House - 10000
+Oxford House - 10000
+Pikangikum - 10000
+The Pas - 10000
+Red Lake - 10000
+Rankin Inlet - 10000
+Ste Therese Point - 10000
+Thompson - 10000
+Gillam - 10000
+Sioux Lookout - 10000
+Churchill - 10000
+Gods River - 10000
+Caye Caulker - 10000
+Kosrae - 10000
+Bikini Atoll - 10000
+Likiep Island - 10000
+Majkin - 10000
+Ujae Island - 10000
+Wotho Island - 10000
+Lae Island - 10000
+Porto Santo - 10000
+Aalesund - 10000
+Bardufoss - 10000
+Bodo - 10000
+Harstad-Narvik - 10000
+Forde - 10000
+Floro - 10000
+Orsta-Volda - 10000
+Kristiansund - 24013
+Molde - 31967
+Sandane - 10000
+Sogndal - 10000
+Stord - 10000
+Tromso - 10000
+Fagernes - 10000
+Cap Haitien - 10000
+Jeremie - 10000
+Grand Turk - 10000
+North Caicos - 10000
+South Caicos - 10000
+Akureyri - 19219
+Bildudalur - 10000
+Egilsstadir - 10000
+Hornafjordur - 10000
+Isafjordur - 10000
+Kulusuk Island - 10000
+Saudarkrokur - 10000
+Vestmannaeyjar - 10000
+Miramichi - 17537
+Charlo - 10000
+Sept-Iles - 10000
+Kingman - 28912
+Lewistown - 10000
+Miles City - 10000
+Wolf Point - 10000
+Sidney - 20858
+Anaktuvuk Pass - 10000
+Barter Island - 10000
+Bettles - 10000
+Circle Hot Springs - 10000
+Eagle - 23612
+Fort Yukon - 10000
+Huslia - 10000
+Hughes - 10000
+Circle - 10000
+Lake Minchumina - 10000
+Manley Hot Springs - 10000
+Rampart - 10000
+Shungnak - 10000
+Stevens Village - 10000
+Tanana - 10000
+Beaver - 10000
+Dawson City - 10000
+Kaltag - 10000
+Nulato - 10000
+Kobuk - 10000
+Tok - 10000
+Utopia Creek - 10000
+Venetie - 10000
+Old Crow - 10000
+Angoon - 10000
+Elfin Cove - 10000
+Gustavus - 10000
+Hoonah - 10000
+Haines - 10000
+Kake - 10000
+Pelican - 10000
+Petersburg - 32477
+Skagway - 10000
+Sitka - 10000
+Tenakee - 10000
+Yakutat - 10000
+Hollis - 20269
+Coffman Cove - 10000
+Thorne Bay - 10000
+Craig - 10000
+Dolomi - 10000
+Edna Bay - 10000
+Point Baker - 10000
+Waterfall - 10000
+Metlakatla - 10000
+Smith Cove - 10000
+Wrangell - 10000
+Kasaan - 10000
+Long Island - 10000
+Naukiti - 10000
+Whale Pass - 10000
+Fort Chipewyan - 10000
+La Ronge - 10000
+Cambridge Bay - 10000
+Kugluktuk Coppermine - 10000
+Inuvik - 10000
+Snare Lake - 10000
+Fort Simpson - 10000
+Wha Ti  Lac la Martre - 10000
+Rae Lakes - 10000
+Norman Wells - 10000
+Deline - 10000
+Taloyoak - 10000
+Gjoa Haven - 10000
+Fort Frances - 10000
+Fort Hope - 10000
+Kenora - 15096
+Webequie - 10000
+Kapuskasing - 10000
+St Anthony - 10000
+Goose Bay - 10000
+Gillies Bay - 10000
+Fort Nelson - 10000
+Dawson Creek - 10000
+Bella Bella - 10000
+Kirkwall - 10000
+Amboseli - 10000
+Geilo - 10000
+Levelock - 10000
+Chuathbaluk - 10000
+Kalskag - 10000
+Shageluk - 10000
+Sleetmute - 10000
+Russian Mission - 10000
+Stony River - 10000
+Atmautluak - 10000
+Alakanuk - 10000
+Cape Romanzof - 10000
+Goodnews Bay - 10000
+Hooper Bay - 10000
+Kipnuk - 10000
+Kwigillingok - 10000
+Kwethluk - 10000
+Marshall - 23820
+Mekoryuk - 10000
+Toksook Bay - 10000
+Scammon Bay - 10000
+Togiak - 10000
+Chevak - 10000
+Napakiak - 10000
+Tuntutuliak - 10000
+Eek - 10000
+Napaskiak - 10000
+Tuluksak - 10000
+Newtok - 10000
+Adak Island - 10000
+False Pass - 10000
+King Cove - 10000
+Clarks Point - 10000
+Cape Newenham - 10000
+Ekwok - 10000
+Koliganek - 10000
+Ekuk - 10000
+Portage Creek - 10000
+Nikolski - 10000
+Akutan - 10000
+Koyukuk - 10000
+Ruby - 10000
+Port Graham - 10000
+Takotna - 10000
+Tatalina - 10000
+Elim - 10000
+Gambell - 10000
+Koyuk - 10000
+Port Clarence - 10000
+Teller Mission - 10000
+Shishmaref - 10000
+Savoonga - 10000
+Stebbins - 10000
+Tin City - 10000
+Buckland - 10000
+Kiana - 10000
+Kivalina - 10000
+Cape Lisburne - 10000
+Noorvik - 10000
+Point Hope - 10000
+Selawik - 10000
+Noatak - 10000
+Chignik - 10000
+Ivanof Bay - 10000
+Nuiqsut - 10000
+St Michael - 10000
+Atqasuk - 10000
+Point Lay - 10000
+Kotlik - 10000
+Mountain Village - 10000
+Sheldon Point - 10000
+Williston - 26977
+Yankton - 10000
+Worland - 10000
+Dembidollo - 10000
+Ghardaia - 10000
+Illizi - 10000
+Havasupai - 10000
+Cobija - 26585
+Mouila - 22469
+Port Gentil - 10000
+Muscle Shoals - 10000
+Labrea - 10000
+Guapi - 10000
+Mompos - 10000
+Pevek - 10000
+Watertown - 31915
+International Falls - 10000
+Thief River Falls - 10000
+Huron - 10000
+Hibbing/Chisholm - 10000
+Devils Lake - 10000
+Fort Dodge - 24649
+Yelimane - 10000
+Nioro - 10000
+Canouan Island - 10000
+Nema - 10000
+Selibaby - 10000
+Terre-de-Haut - 10000
+Ambatomainty - 10000
+Belo - 10000
+Fort Dauphin - 10000
+Majunga - 10000
+Mananjary - 27686
+Maintirano - 25788
+Tulear - 10000
+Morafenobe - 10000
+Massena - 10000
+Ogdensburg - 10000
+Juina - 10000
+Guajara-Mirim - 10000
+Torsby - 10000
+Sveg - 10000
+Inukjuak - 10000
+Sanikiluaq - 10000
+Puvirnituq - 10000
+Gaspe - 10000
+Sintang - 10000
+Belaga - 10000
+Neerlerit Inaat - 10000
+Nuuk - 14798
+Ilulissat - 10000
+Aasiaat - 10000
+Sisimiut - 10000
+Maniitsoq - 10000
+Pituffik - 10000
+Bronnoysund - 10000
+Mosjoen - 10000
+Mo I Rana - 10000
+Namsos - 10000
+Roervik - 10000
+Sandnessjoen - 10000
+Groennedal - 10000
+Qaqortoq - 10000
+Nanortalik - 10000
+Narsaq - 10000
+Alluitsup Paa - 10000
+Windorah - 10000
+Ngukurr - 10000
+Milingimbi - 10000
+Ramingining - 10000
+Balalae - 10000
+Choiseul Bay - 10000
+Mono - 10000
+Santa Ana Island - 10000
+Bedourie - 10000
+Burketown - 10000
+Cape Vogel - 10000
+Nissan Island - 10000
+Rabaraba - 10000
+Salamo - 10000
+Wedau - 10000
+Vivigani - 10000
+Gasmata - 10000
+Jacquinot Bay - 10000
+Kandrian - 10000
+Linga Linga - 10000
+Uvol - 10000
+Ihu - 10000
+Kikori - 10000
+Emirau - 10000
+Mapua - 10000
+Mussau - 10000
+Garaina - 10000
+Indagen - 10000
+Lablab - 10000
+Menyamya - 10000
+Namatanai - 10000
+Boang - 10000
+Saidor - 10000
+Ioma - 10000
+Safia - 10000
+Open Bay - 10000
+Silur - 10000
+Sule - 10000
+Telefomin - 10000
+Garasa - 10000
+Kaintiba - 10000
+Tekadu - 10000
+Hayfields - 10000
+Vanimo - 10000
+Richmond - 28587
+Cunnamulla - 10000
+Puerto Asis - 10000
+Bahia Solano - 10000
+Kleinzee - 10000
+Gobernador Gregores - 10000
+Ulundi - 20753
+Guayaramerin - 10000
+Magdalena - 16214
+San Joaquin - 10000
+Borroloola - 10000
+Boigu Island - 10000
+Halls Creek - 10000
+Qiemo - 18893
+Useless Loop - 10000
+Nicholson - 10000
+Kasos Island - 10000
+Berau - 10000
+Vatomandry - 10000
+Bourke - 10000
+Walgett - 10000
+Scone - 10000
+Sola - 10000
+Guiria - 10000
+Ahuas - 10000
+Guanaja - 10000
+Brus Laguna - 10000
+Palacios - 10000
+Puerto Lempira - 10000
+Utila - 10000
+Clyde River - 10000
+Igloolik - 10000
+Kimmirut/Lake Harbour - 10000
+Cape Dorset - 10000
+Hall Beach - 10000
+Broughton Island - 10000
+Pangnirtung - 10000
+Nanisivik - 10000
+Swan River - 10000
+Red Sucker Lake - 10000
+Cross Lake - 10000
+Poplar Hill - 10000
+Deer Lake - 10000
+Baker Lake - 10000
+Chesterfield Inlet - 10000
+Arviat - 10000
+Repulse Bay - 10000
+Whale Cove - 10000
+Lac Brochet - 10000
+Pukatawagan - 10000
+South Indian Lake - 10000
+Tadoule Lake - 10000
+Brochet - 10000
+Leaf Rapids - 10000
+Lynn Lake - 10000
+York Landing - 10000
+Shamattawa - 10000
+Kingfisher Lake - 10000
+Muskrat Dam - 10000
+Kasabonika - 10000
+Cat Lake - 10000
+Fort Severn - 10000
+Pickle Lake - 10000
+Big Trout Lake - 10000
+Round Lake - 18461
+Sandy Lake - 10000
+Sao Jorge Island - 10000
+Andenes - 10000
+Leknes - 10000
+Narvik - 10000
+Rost - 10000
+Stokmarknes - 10000
+Svolvaer - 10000
+Vaeroy - 10000
+Alta - 15094
+Hasvik - 10000
+Hammerfest - 10000
+Kirkenes - 10000
+Lakselv - 10000
+Longyearbyen - 2368
+Sorkjosen - 10000
+Vadso - 10000
+Salt Cay - 10000
+Middle Caicos - 10000
+Grimsey - 10000
+Vopnafjordur - 10000
+Thorshofn - 10000
+Siglufjordur - 10000
+Bonaventure - 10000
+Havre St Pierre - 10000
+Chevery - 10000
+Schefferville - 10000
+Natashquan - 10000
+Wabush - 10000
+Havre - 10000
+Glendive - 10000
+Central - 28295
+Chalkyitsik - 10000
+Arctic Village - 10000
+Chicken - 10000
+Northway - 10000
+Tetlin - 10000
+Chisana - 10000
+Stony Rapids - 10000
+Points North Landing - 10000
+Wollaston Lake - 10000
+Holman Island - 10000
+Fort Good Hope - 10000
+Paulatuk - 10000
+Sachs Harbour - 10000
+Tuktoyaktuk - 10000
+Tulita Fort Norman - 10000
+Pelly Bay - 10000
+Lansdowne House - 10000
+Nakina - 10000
+Hearst - 10000
+Nain - 10000
+Makkovik - 10000
+Rigolet - 10000
+Churchill Falls - 10000
+Klemtu - 10000
+Eday - 10000
+Sanday - 10000
+North Ronaldsay - 10000
+Papa Westray - 10000
+Stronsay - 10000
+Westray - 10000
+Igiugig - 10000
+Crooked Creek - 10000
+Grayling - 10000
+Red Devil - 10000
+Platinum - 10000
+Akiachak - 10000
+Akiak - 10000
+New Stuyahok - 10000
+Nanwalek - 10000
+Asosa - 10000
+Beica - 10000
+Humera - 10000
+Gambela - 10000
+Tippi - 10000
+Bordj Badji Mokhtar - 10000
+Gamba - 10000
+Omboue - 10000
+Porto de Moz - 10000
+Goundam - 10000
+Tombouctou - 10000
+Ngaoundere - 10000
+Besalampy - 10000
+Soalala - 10000
+Analalava - 10000
+Port Berge - 10000
+Tambohorano - 10000
+Manja - 10000
+Morombe - 10000
+Antsalova - 10000
+Araguaina - 10000
+Ji-Parana - 10000
+Aripuana - 10000
+Alta Floresta - 10000
+Matupa - 10000
+Costa Marques - 10000
+Akulivik - 10000
+Salluit - 10000
+Putussibau - 10000
+Qasigiannguit - 10000
+Qeqertarsuaq - 10000
+Upernavik - 10000
+Uummannaq - 10000
+Paamiut - 10000
+Julia Creek - 10000
+Birdsville - 10000
+Agaun - 10000
+Aragip - 10000
+Biniguni - 10000
+Gonalia - 10000
+Wasum - 10000
+Baimuru - 10000
+Kanabea - 10000
+Kamusi - 10000
+Konge - 10000
+Malekolon - 10000
+Dodoima - 10000
+Kira - 10000
+Embessa - 10000
+Green River - 10000
+Nuku - 10000
+Aitape - 10000
+Thargomindah - 10000
+Alexander Bay - 10000
+Karonga - 34207
+Kasaba Bay - 10000
+Mabuiag Island - 10000
+Kubin Island - 10000
+Badu Island - 10000
+Murray Island - 10000
+Darnley Island - 10000
+Billiluna - 10000
+Putao - 10000
+Forbes - 10000
+West Wyalong - 10000
+Young - 16756
+Cootamundra - 10000
+Lightning Ridge - 10000
+Mota Lava - 10000
+Torres - 32791
+Cauquira - 10000
+Pond Inlet - 10000
+North Spirit Lake - 10000
+Sachigo Lake - 10000
+Angling Lake - 10000
+Bearskin Lake - 10000
+Batsfjord - 10000
+Mehamn - 10000
+Berlevag - 10000
+Honningsvag - 10000
+Vardoe - 10000
+Pakuashipi - 10000
+Gethsemani - 10000
+La Tabatiere - 10000
+Tete-a-La Baleine - 10000
+Kegaska - 10000
+Center Island - 10000
+Decatur Island - 10000
+Ogoki - 10000
+Davis Inlet - 10000
+Hopedale - 10000
+Postville - 10000
+Anvik - 10000
+Mizan Teferi - 10000
+Tum - 10000
+Nkayi - 10000
+Ankavandra - 10000
+Ivujivik - 10000
+Kangiqsujuaq - 10000
+Pumani - 10000
+Manguna - 10000
+Kuri - 10000
+Kabwum - 10000
+Anguganak - 10000
+Lumi - 10000
+Miandrivazo - 20631
+Satwag - 10000
+Gewoya - 10000
+Black Tickle - 10000
+Port Hope Simpson - 10000
+Derim - 10000
+Williams Harbour - 10000
+Yalumet - 10000
+Wasu - 10000
