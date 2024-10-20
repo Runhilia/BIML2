@@ -1,0 +1,1971 @@
+Anaa - 10000
+Hao Island - 10000
+Papeete - 26357
+Gambier Island - 10000
+Makemo - 10000
+Atuona - 10000
+Bora Bora - 10000
+Huahine - 10000
+Easter Island - 10000
+Kaukura Atoll - 10000
+Moorea - 10000
+Nuku Hiva - 10000
+Noumea - 10000
+Mataiva - 10000
+Rarotonga - 10000
+Raiatea Island - 10000
+Rangiroa Island - 10000
+Rurutu - 10000
+Tikehau Atoll - 10000
+Takaroa - 10000
+Tubuai - 10000
+Wallis Island - 10000
+Manihi - 10000
+Blenheim - 28800
+Denpasar Bali - 10000
+Hamilton - 902
+Niue - 10000
+Kaitaia - 10000
+Kerikeri - 10000
+Norfolk Island - 10000
+Napier-Hastings - 10000
+Nelson - 29317
+Nuku'alofa - 10000
+Taupo - 26100
+Port Vila - 10000
+Wanganui - 10000
+Whakatane - 18602
+Wellington - 22816
+Dallas/Fort Worth - 10000
+Guam - 10000
+Hana - 10000
+Kapalua - 10000
+Johnston Island - 10000
+Kona - 10000
+Kauai Island - 10000
+Lanai City - 10000
+Kalaupapa - 10000
+Majuro - 25400
+Midway Island - 10000
+Hoolehua - 10000
+Kamuela - 10000
+New York - 10000
+Kahului - 26337
+Portland - 16116
+Pago Pago - 11500
+St Louis - 10000
+Victoria - 25139
+Leon/Guanajuato - 10000
+Culiacan - 10000
+Cancun - 10000
+Durango - 28229
+Fresno - 17668
+Frankfurt - 10000
+Imperial - 32344
+Inyokern - 10000
+La Paz - 24716
+Loreto - 24260
+Monterey - 28338
+Minneapolis/St Paul - 10000
+Mazatlan - 10000
+Oxnard/Ventura - 10000
+Palm Springs - 22341
+Sacramento - 16982
+San Diego - 18531
+Sao Paulo - 10000
+Santa Barbara - 15445
+St George - 10000
+San Jose Cabo - 10000
+Santa Ana - 25145
+Torreon - 10000
+Montreal - 10000
+Ixtapa/zihuatanejo - 10000
+Zurich - 10000
+Ile des Pins - 10000
+Kone - 10000
+Koumac - 10000
+Lifou - 10000
+Mare - 10000
+Tiga - 10000
+Touho - 10000
+Ouvea - 10000
+Amami O Shima - 10000
+Cebu - 10000
+Cheju - 10000
+Iwami - 10000
+Memambetsu - 10000
+Miyako Jima - 10000
+Oita - 10000
+Oki Island - 10000
+Langkawi - 10000
+Penang - 10000
+Pusan - 10000
+Shonai - 20940
+Tanegashima - 10000
+Ulaanbaatar - 10000
+Aitutaki - 10000
+Atiu Island - 10000
+Mangaia Island - 10000
+Manihiki Island - 10000
+Mitiaro Island - 10000
+Mauke Island - 10000
+Penrhyn Island - 10000
+Maupiti Island - 10000
+Takapoto - 10000
+Hachijo Jima - 10000
+Kita Kyushu - 10000
+Monbetsu - 10000
+Miyake Jima - 10000
+Oshima - 10000
+Nakashibetsu - 24014
+Nanki Shirahama - 10000
+Xi An - 10000
+Wakkanai - 33869
+Futuna - 10000
+Maota Savail Is - 10000
+Armidale - 24504
+Blackall - 10000
+Blackwater - 10000
+Barcaldine - 10000
+Ballina - 10000
+Coffs Harbour - 26672
+Charleville - 10000
+Emerald - 10000
+Gladstone - 30489
+Hamilton Island - 10000
+Nauru Island - 10000
+Mount Isa - 22785
+Lord Howe Island - 10000
+Longreach - 10000
+Maryborough - 15479
+Sunshine Coast - 10000
+Moree - 10000
+Proserpine - 10000
+Roma - 10000
+Thangool - 10000
+Paso de Los Libres - 10000
+Asuncion - 10000
+Aruba - 10000
+Bahia Blanca - 10000
+Bogota - 10000
+Ciego de Avila - 10000
+Camaguey - 10000
+Cordoba - 10000
+San Martin de Los Andes - 10000
+Cayo Largo del Sur - 10000
+Florianopolis - 10000
+Iguazu - 10000
+Jujuy - 10000
+Neuquen - 10000
+Punta del Este - 10000
+Parana - 10000
+Rio Cuarto - 10000
+Rio Gallegos - 10000
+Santa Cruz - 27775
+Tucuman - 10000
+Varadero - 20000
+Esquel - 28486
+Chatham Island - 10000
+Hokitika - 10000
+Mount Cook - 10000
+Alice Springs - 25186
+Aurukun Mission - 10000
+Ayers Rock - 10000
+Cooktown - 10000
+Coen - 10000
+Dunk Island - 10000
+Edward River - 10000
+Gove - 10000
+Groote Eylandt - 10000
+Lockhart River - 10000
+Karumba - 10000
+Kowanyama - 10000
+Lizard Island - 10000
+Misima Island - 10000
+Normanton - 10000
+Yorke Island - 10000
+Weipa - 10000
+Broome - 10000
+Ujung Pandang - 10000
+Bahrain - 10000
+Mauritius - 10000
+Meixian - 10000
+Tunxi - 10000
+Urumqi - 10000
+Kerteh - 10000
+Labuan - 33576
+Pangkor - 10000
+Tioman - 10000
+Albury - 10000
+Devonport - 10000
+Flinders Island - 10000
+King Island - 10000
+Mount Gambier - 25030
+Merimbula - 10000
+Mildura - 32936
+Portland - 16116
+Traralgon - 24605
+Wagga Wagga - 10000
+Kandavu - 10000
+Labasa - 27949
+Mana Island - 10000
+Malololailai - 10000
+Savusavu - 10000
+Taveuni - 10000
+Albany - 33650
+Cocos Islands - 10000
+Carnarvon - 10000
+Esperance - 10000
+Argyle - 10000
+Kalgoorlie - 10000
+Karratha - 10000
+Learmonth - 10000
+Leinster - 10000
+Leonora - 10000
+Laverton - 10000
+Meekatharra - 10000
+Mount Magnet - 10000
+Margaret River - 10000
+Paraburdoo - 10000
+Kununurra - 10000
+Port Hedland - 10000
+Wiluna - 10000
+Newman - 10000
+Te Anau - 10000
+Kangnung - 10000
+Kunsan - 10000
+Kwangju - 10000
+Yosu - 10000
+Taegu - 10000
+Yechon - 10000
+Bangalore - 10000
+Calcutta - 10000
+Krabi - 31219
+Kuwait - 10000
+St Denis de la Reunion - 10000
+Mahe Island - 10000
+Solo City - 10000
+Koh Samui - 10000
+Bathurst - 33110
+Casino - 10000
+Mudgee - 10000
+Griffith - 18154
+Grafton - 16583
+Gunnedah - 10000
+Lismore - 10000
+Moruya - 10000
+Narrandera - 10000
+Cooma - 10000
+Parkes - 10000
+Narrabri - 10000
+Taree - 16359
+Eua - 10000
+Ha'apai - 10000
+Vava'u - 10000
+Chiayi - 10000
+Hualien - 10000
+Kinmen - 10000
+Makung - 10000
+Koror - 10000
+Subic Bay - 10000
+Taitung - 10000
+Dillons Bay - 10000
+Emae - 10000
+Ipota - 10000
+Lamen Bay - 10000
+Lonorore - 10000
+Longana - 10000
+Lamap - 10000
+Norsup - 10000
+Espiritu Santo - 10000
+South West Bay - 10000
+Tanna - 10000
+Tongoa - 10000
+Craig Cove - 10000
+Timaru - 28600
+Westport - 26391
+Wanaka - 10000
+Allentown/Bethlehem/Easton - 10000
+Albany - 33650
+Augusta - 30723
+Albany - 33650
+Bermuda - 10000
+Bloomington-Normal - 10000
+Buffalo - 16026
+Akron/Canton - 10000
+Charleston - 21196
+Charleston - 21196
+Flint - 26442
+Grand Cayman Island - 10000
+Gulfport/Biloxi - 10000
+Greensboro/High Point - 10000
+Greenville - 16434
+Westchester County - 10000
+Huntsville - 19816
+Long Island Macarthur - 10000
+Jacksonville - 28643
+Merida - 10000
+Myrtle Beach - 31035
+Portland - 16116
+Raleigh/Durham - 10000
+Richmond - 28587
+Rochester - 28671
+Shannon - 10000
+Sarasota/Bradenton - 10000
+Brunswick - 24896
+St Thomas Island - 10000
+Newburgh - 28290
+Tri-Cities Regional - 10000
+Valparaiso - 32626
+Sal - 10000
+Waterloo - 29778
+Duluth/Superior - 10000
+Dusseldorf - 10000
+Iron Mountain - 10000
+Krakow - 10000
+Lansing - 28349
+Saginaw - 22079
+St Petersburg - 10000
+Rhinelander - 10000
+Rochester - 28671
+Traverse City - 15218
+Acapulco - 10000
+Burbank - 29128
+Brownwood - 19031
+El Dorado - 18386
+Harlingen - 16119
+Long Beach - 15555
+Laredo - 24691
+Midland/odessa - 10000
+Mcallen - 10000
+Ponca City - 24758
+Texarkana - 30353
+Fukue - 10000
+Pohnpei - 10000
+Truk - 10000
+Yap - 10000
+Brownsville - 15313
+Roatan - 10000
+San Luis Potosi - 10000
+Victoria - 25139
+Airok - 10000
+Aur Island - 10000
+Jabot - 10000
+Jeh - 10000
+Kaben - 10000
+Kwajalein - 10000
+Ebon - 10000
+Kili Island - 10000
+Maloelap Island - 10000
+Mili Island - 10000
+Jaluit Island - 10000
+Utirik Island - 10000
+Woja - 10000
+Wotje Island - 10000
+Bacolod - 10000
+Calbayog - 10000
+Cuyo - 10000
+Kalibo - 10000
+Lubang - 10000
+Culion - 10000
+Marinduque - 10000
+Roxas - 16618
+Tagbilaran - 10000
+Virac - 15079
+Nantucket - 10000
+Antigua - 10000
+Barbados - 10000
+Aguadilla - 16073
+Grenada - 10000
+Geneva - 21806
+Hyannis - 10000
+Kiev - 10000
+Ithaca - 30788
+Lebanon - 20623
+Port au Prince - 10000
+Providenciales - 10000
+Marrakech - 10000
+Reykjavik - 10000
+St Maarten - 10000
+Timisoara - 10000
+Quebec - 10000
+Arcata/Eureka - 10000
+Klamath Falls - 21399
+North Bend - 10000
+Pendleton - 16881
+Redmond - 28654
+Aspen - 10000
+Durango - 28229
+Fort Huachuca/Sierra Vista - 10000
+Farmington - 18181
+Guaymas - 10000
+Montrose - 19062
+Page - 10000
+Show Low - 10000
+Ofu - 10000
+Tau - 10000
+Walla Walla - 32237
+Butte - 34190
+Port Angeles - 19448
+Wenatchee - 33636
+Fairbanks - 32325
+Kalispell - 22052
+Great Falls - 15427
+Helena - 18264
+Juneau - 32756
+Ketchikan - 10000
+Moses Lake - 22082
+Pullman - 32816
+Roche Harbor - 10000
+Sun Valley - 19299
+Westsound - 10000
+Crescent City - 10000
+Marion - 17803
+Paducah - 24864
+Fort Leonard Wood - 15061
+Mountain Home - 10000
+Fort Mcmurray - 10000
+High Level - 10000
+Peace River - 10000
+Yellowknife - 20340
+Hay River - 10000
+Rainbow Lake - 10000
+St Kitts - 10000
+St Lucia - 10000
+Sault Ste Marie - 10000
+Gander - 10000
+Sudbury - 22213
+St John - 10000
+Pembroke - 10000
+St Johns - 10000
+Qualicum - 10000
+Anahim Lake - 10000
+Tofino - 10000
+Campbell River - 33430
+Castlegar - 10000
+Prince Rupert - 10000
+Powell River - 10000
+Comox - 10000
+Quesnel - 10000
+Cranbrook - 20047
+Fort St John - 10000
+Terrace - 19443
+Whitehorse - 28201
+Smithers - 10000
+Penticton - 33761
+Sandspit - 10000
+Port Hardy - 10000
+Williams Lake - 10000
+Lloydminster - 31582
+Copiapo - 10000
+Alamogordo - 30753
+Gallup - 23240
+Los Alamos - 10000
+Silver City - 10000
+Malaga - 10000
+Al Hoceima - 10000
+Antwerp - 10000
+Bergen - 29974
+Billund - 10000
+Bonaire - 10000
+Berne - 10000
+Cologne - 10000
+Curacao - 10000
+Dalaman - 19292
+Euroairport - 10000
+Munster - 17746
+Fuerteventura - 10000
+Guernsey - 10000
+Gothenburg - 10000
+Heraklion - 10000
+Humberside - 10000
+Kilimanjaro - 10000
+Leeds Bradford - 10000
+St Petersburg - 10000
+Las Palmas - 10000
+Liverpool - 27545
+Malta - 10000
+Malmo - 10000
+Teesside - 10000
+Nuremberg - 10000
+Oujda - 10000
+Palma Mallorca - 10000
+Rhodes - 10000
+Thessaloniki - 10000
+Santa Cruz de la Palma - 15674
+Seville - 10000
+Tenerife - 10000
+Constanta - 10000
+Holguin - 10000
+Izmir - 10000
+Lome - 10000
+Kodiak - 10000
+King Salmon - 10000
+Aniak - 10000
+Bethel - 10000
+Cold Bay - 10000
+Cordova - 29289
+Dillingham - 10000
+Dutch Harbor - 10000
+Kenai - 10000
+Galena - 10000
+Homer - 10000
+Iliamna - 10000
+Mcgrath - 10000
+Nome - 10000
+Kotzebue - 10000
+Petropavlovsk-Kamchats - 10000
+Port Heiden - 10000
+Prudhoe Bay/Deadhorse - 10000
+Sand Point - 10000
+St George Island - 10000
+Unalakleet - 10000
+Valdez - 10000
+Barrow - 10000
+St Marys - 10000
+St Paul Island - 10000
+Yan'an - 10000
+Huangyan - 10000
+Xiangfan - 10000
+Xilinhot - 10000
+Ciudad Juarez - 10000
+Augusta - 30723
+Bar Harbor - 10000
+Elmira/Corning - 10000
+Martha's Vineyard - 10000
+Ponta Delgada - 20056
+Presque Isle - 10000
+Provincetown - 10000
+Rockland - 17982
+Rutland - 15824
+Freeport - 26910
+Salisbury-Ocean City - 10000
+New Bern - 30070
+Lewisburg - 10000
+Jacksonville - 28643
+Greenville - 16434
+Southern Pines - 10000
+Flores - 20464
+Alliance - 22055
+Alamosa - 10000
+Scottsbluff - 10000
+Chadron - 10000
+Cortez - 10000
+Cody - 10000
+Dickinson - 19895
+Kearney - 33021
+Vail - 10000
+Gillette - 32649
+Garden City - 26920
+Gunnison - 10000
+Hays - 21092
+Laramie - 32158
+North Platte - 24194
+Liberal - 20746
+Mccook - 10000
+Pierre - 10000
+Rock Springs - 23962
+Steamboat Springs - 10000
+Sheridan - 17873
+Telluride - 10000
+Alpena - 10000
+Hancock - 10000
+Pellston - 10000
+Donegal - 10000
+Isle of Man - 10000
+Kerry County - 10000
+Londonderry - 10000
+Sligo - 19199
+North Eleuthera - 10000
+Key West - 25755
+George Town - 29370
+Governors Harbour - 10000
+Inagua - 10000
+Marsh Harbour - 10000
+The Bight - 10000
+Treasure Cay - 10000
+Lanzarote - 10000
+Cluj - 10000
+Djerba - 10000
+Dnepropetrovsk - 10000
+Karaganda - 10000
+Klagenfurt - 10000
+Lvov - 10000
+Ekaterinburg - 10000
+Tobago - 10000
+Tabarka - 10000
+Wroclaw - 10000
+Zaragoza - 24067
+Ciudad Obregon - 10000
+Rio Dulce - 10000
+Guerrero Negro - 10000
+Ely - 19090
+Grand Canyon - 10000
+Cuzco - 10000
+Huanuco - 10000
+Jauja - 21057
+La Paz - 24716
+Tarapoto - 10000
+Aarhus - 10000
+Alghero - 34261
+Biarritz - 33188
+Dinard - 10000
+Entebbe/Kampala - 10000
+St Etienne - 10000
+Nimes - 10000
+Gdansk - 10000
+Gibraltar - 26544
+Jersey - 10000
+Menorca - 10000
+Knock - 10000
+Newquay - 20189
+Asturias - 10000
+Ovda - 10000
+Negril - 10000
+Ocho Rios - 10000
+Port Antonio - 10000
+Greenville - 16434
+Laurel - 26215
+Colima - 15875
+Huatulco - 10000
+Ixtepec - 25381
+Lazaro Cardenas - 10000
+Minatitlan - 10000
+Poza Rica - 10000
+Puerto Escondido - 25902
+San Cristobal de Las Casas - 10000
+Belem - 10000
+Bimini - 10000
+Cartagena - 16875
+Medellin - 10000
+St Croix Island - 10000
+Lampedusa - 10000
+Sharm el Sheikh - 10000
+Dodge City - 27912
+Great Bend - 15717
+Kirksville - 17520
+Escanaba - 10000
+Adler/Sochi - 10000
+Arkhangelsk - 10000
+Andizhan - 10000
+Bourgas - 10000
+Chernovtsy - 10000
+Anadyr - 15604
+Elat - 10000
+Kharkov - 10000
+Gyandzha - 10000
+Krivoy Rog - 10000
+Gyoumri - 10000
+Mirnyj - 10000
+Naberevnye Chelny - 10000
+Nikolaev - 10000
+Novy Urengoy - 10000
+Zaporozhye - 10000
+Rostov - 31039
+Salehard - 10000
+Stavropol - 10000
+Urgench - 10000
+Bemidji - 10000
+Brookings - 23657
+Brainerd - 10000
+Ironwood - 10000
+Jamestown - 637
+Mason City - 27366
+St Cloud - 10000
+Agen - 34367
+Bejaia - 10000
+Brive-La-Gaillarde - 10000
+Beziers - 10000
+Cherbourg - 10000
+Calvi - 10000
+Chambery - 10000
+Bergerac - 28317
+Epinal - 10000
+Metz/Nancy - 10000
+Fort de France - 10000
+Fez - 10000
+Figari - 10000
+Lannion - 21473
+Lourdes/Tarbes - 10000
+Le Puy - 10000
+Montlucon - 10000
+Ndjamena - 10000
+Ouarzazate - 10000
+Perigueux - 10000
+Pointe-a-Pitre - 10000
+Rodez - 28337
+St Brieuc - 10000
+New London/Groton - 10000
+Williamsport - 29201
+Altoona - 16984
+Watertown - 31915
+Cumberland - 20130
+Clarksburg - 16152
+Dubois - 10000
+Jamestown - 637
+Johnstown - 19966
+Latrobe - 10000
+Morgantown - 30708
+Parkersburg/Marietta - 10000
+Staunton - 24416
+Hamilton - 902
+Bocas del Toro - 10000
+Changuinola - 17997
+El Real - 10000
+Jaque - 10000
+Colon - 10000
+Contadora - 10000
+Garachine - 10000
+La Palma - 15904
+Sambu - 10000
+Elko - 20279
+Aracatuba - 10000
+Brasilia - 10000
+Criciuma - 10000
+Cuiaba - 10000
+Goiania - 10000
+Iguassu Falls - 10000
+Ilheus - 10000
+Maceio - 10000
+Maringa - 10000
+Marilia - 10000
+President Prudente - 10000
+Ribeirao Preto - 10000
+Sao Jose Dos Campos - 10000
+Sao Jose do Rio Preto - 10000
+Uberlandia - 10000
+Vitoria - 10000
+Chapeco - 10000
+Anguilla - 10000
+Dominica - 10000
+Beef Island - 10000
+Mayaguez - 10000
+St Barthelemy - 10000
+St Vincent - 10000
+Virgin Gorda - 10000
+Vieques - 10000
+Cedar City - 30184
+Moab - 10000
+Vernal - 10000
+Arvidsjaur - 10000
+Borlange - 10000
+Gallivare - 10000
+Hagfors - 10000
+Hudiksvall - 16081
+Jonkoping - 10000
+Jyvaskyla - 10000
+Kramfors - 10000
+Kiruna - 17037
+Skovde - 10000
+Lulea - 10000
+Linkoping - 10000
+Lycksele - 10000
+Mariehamn - 10682
+Norrkoping - 10000
+Ornskoldsvik - 10000
+Orebro - 10000
+Ostersund - 10000
+Oskarshamn - 18287
+Ronneby - 10000
+Skelleftea - 10000
+Soderhamn - 10000
+Storuman - 10000
+Hultsfred - 10000
+Trollhattan - 10000
+Umea - 10000
+Visby - 23402
+Vilhelmina - 10000
+Vaxjo - 10000
+Beckley - 17056
+Bluefield - 10000
+Baie Comeau - 10000
+Bagotville - 10000
+La Grande - 10000
+Kuujjuarapik - 10000
+St Pierre - 10000
+Chibougamau - 10000
+Roberval - 10000
+St Leonard - 10000
+Alma - 29526
+Rouyn - 10000
+Val D'Or - 10000
+Kuujjuaq - 10000
+Bathurst - 33110
+Mont Joli - 10000
+Sion - 10000
+Belep Island - 10000
+Kikaiga Shima - 10000
+Okino Erabu - 10000
+Tokunoshima - 10000
+Ranong - 24561
+Bhubaneswar - 10000
+Bhopal - 10000
+Goa - 20936
+Aurangabad - 10000
+Rajkot - 10000
+Raipur - 17537
+Udaipur - 30264
+Al Ain - 10000
+Assiut - 10000
+Hodeidah - 10000
+Madinah - 10000
+Ras al Khaimah - 10000
+Sebha - 10000
+Kharga - 10000
+Taba - 10000
+Cheong Ju City - 10000
+Okushiri - 10000
+Hateruma - 10000
+Yonaguni Jima - 10000
+Taramajima - 10000
+Diyarbakir - 10000
+Ercan - 10000
+Elazig - 10000
+Nevsehir - 10000
+Jambi - 10000
+Chi Mei - 10000
+Yakushima - 10000
+Yoronjima - 10000
+Aguni - 10000
+Kerama - 10000
+Kitadaito - 10000
+Minami Daito - 10000
+Kume Jima - 10000
+Won-ju - 10000
+Ban Me Thuot - 10000
+Dalat - 10000
+Hue - 10000
+Nha-Trang - 10000
+Phuquoc - 10000
+Quinhon - 10000
+Choibalsan - 10000
+Dalanzadgad - 10000
+Moron - 10000
+Bulgan - 17348
+Altenrhein - 10000
+Kosice - 10000
+Kudat - 32393
+Limbang - 26199
+Poznan - 10000
+Tiruchirapally - 10000
+Faroe Islands - 10000
+Karup - 10000
+Bornholm - 10000
+Kangerlussuaq - 10000
+Sonderborg - 10000
+Narsarsuaq - 10000
+Vasteras - 10000
+Bagdogra - 17372
+Chandigarh - 10000
+Ivalo - 10000
+Kuusamo - 17400
+Kemi/Tornio - 10000
+Kokkola/Pietarsaari - 10000
+Kittila - 10000
+Seinajoki - 10000
+Savonlinna - 27353
+Varkaus - 22365
+Dubrovnik - 26922
+Ardabil - 10000
+Ahwaz - 10000
+Kish Island - 10000
+Mashad - 10000
+Urmieh - 10000
+Ramsar - 10000
+Sary - 10000
+Birjand - 10000
+Chah-Bahar - 10000
+Rebun - 10000
+Rishiri - 10000
+Asau - 10000
+Broken Hill - 18027
+Ceduna - 10000
+Coober Pedy - 10000
+Cleve - 10000
+Kingscote - 10000
+Olympic Dam - 10000
+Port Lincoln - 10000
+Whyalla - 10000
+Glen Innes - 10000
+Inverell - 10000
+Quilpie - 10000
+Bathurst Island - 10000
+Croker Island - 10000
+Garden Point - 10000
+Katherine - 10000
+Mcarthur River - 10000
+Maningrida - 10000
+Snake Bay - 10000
+Auki - 10000
+Bellona - 10000
+Sege - 10000
+Fera Island - 10000
+Gizo - 10000
+Kirakira - 10000
+Munda - 10000
+Parasi - 10000
+Santa Cruz Island - 10000
+Suavanao - 10000
+Yandina - 10000
+Rennell - 10000
+Brampton Island - 10000
+Boulia - 10000
+Doomadgee Mission - 10000
+Winton - 10000
+Wanigela - 10000
+Amazon Bay - 10000
+Buka - 10000
+Bulolo - 16042
+Kundiawa - 10000
+Daru - 15214
+Goroka - 18503
+Alotau - 10000
+Mount Hagen - 33623
+Hoskins - 10000
+Kokoda - 10000
+Kerema - 10000
+Kavieng - 10000
+Lihir Island - 10000
+Losuia - 10000
+Madang - 27419
+Manus Island - 10000
+Mendi - 26252
+Balimo - 10000
+Popondetta - 28198
+Rabaul - 10000
+Tabubil - 10000
+Tetabedi - 10000
+Tufi - 10000
+Tari - 10000
+Kiunga - 10000
+Wapenamanda - 10000
+Wewak - 18230
+Kempsey - 10000
+Hughenden - 10000
+St George - 10000
+San Andres Island - 10000
+Cucuta - 10000
+El Yopal - 10000
+Ibague - 10000
+Monteria - 10000
+Popayan - 10000
+Quibdo - 10000
+El Bolson - 10000
+Oranjemund - 10000
+Springbok - 10000
+Perito Moreno - 10000
+Puerto Deseado - 10000
+Rio Mayo - 10000
+Guantanamo - 10000
+Nueva Gerona - 20264
+Vitoria - 10000
+Blantyre - 17090
+Hoedspruit - 10000
+Plettenberg Bay - 19445
+Pietersburg - 10000
+Skukuza - 10000
+Umtata - 10000
+San Sebastian - 10000
+Granada - 32365
+La Coruna - 10000
+Almeria - 10000
+Leon - 10000
+Malargue - 10000
+San Antonio Oeste - 16966
+Santo Angelo - 10000
+President Roque Saenz Pena - 10000
+Lago Argentino - 10000
+Rio Turbio - 10000
+Santa Cruz - 27775
+Campos - 10000
+Puerto Suarez - 10000
+El Maiten - 10000
+Tennant Creek - 10000
+Elcho Island - 10000
+Lake Evella - 10000
+Numbulwar - 10000
+Mornington Island - 10000
+Thursday Island - 10000
+Coconut Island - 10000
+Warraber Island - 10000
+Yam Island - 10000
+Sumbawa - 10000
+Fitzroy Crossing - 10000
+Biak - 10000
+Tembagapura - 10000
+Barisal - 10000
+Chittagong - 10000
+Cox's Bazar - 10000
+Paro - 10000
+Rajshahi - 10000
+Riyan Mukalla - 10000
+Salalah - 10000
+Bhairawa - 10000
+Nepalganj - 10000
+Lukla - 10000
+Rodrigues Island - 10000
+St Pierre de la Reunion - 10000
+Stung Treng - 25000
+Utapao - 10000
+Heho - 10000
+Kawthaung - 10000
+Kyaukpyu - 10000
+Loikaw - 17293
+Maulmyine - 10000
+Nyaung-u - 10000
+Kengtung - 10000
+Kalemyo - 10000
+Thandwe - 10000
+Dawe - 10000
+Rosh Pina - 10000
+Kashi - 10000
+Yining - 10000
+Shashi - 10000
+Al-Fujairah - 10000
+Seiyun - 10000
+Kos - 19244
+Mae Hong Son - 10000
+Nan - 24670
+Al-Baha - 10000
+Jouf - 10000
+Qaisumah - 20685
+Bisha - 10000
+Dongola - 10000
+Nejran - 10000
+Wedjh - 10000
+Gassim - 10000
+Gizan - 10000
+Hail - 10000
+Taif - 10000
+Tabuk - 27048
+Wadi Ad Dawasir - 10000
+Jiwani - 16322
+Mohenjodaro - 10000
+Ormara - 10000
+Panjgur - 10000
+Pasni - 33110
+Vishakhapatnam - 10000
+Gan Island - 10000
+Kadhdhoo - 10000
+Bario - 10000
+Mulu - 10000
+Hafr Albatin - 10000
+Hofuf - 10000
+Rafha - 10000
+Gurayat - 10000
+Karshi - 10000
+Funafuti Atol - 10000
+Cicia - 10000
+Koro Island - 10000
+Bureta - 10000
+Lakeba - 10000
+Moala - 10000
+Ngau Island - 10000
+Rotuma Island - 10000
+Vanuabalavu - 10000
+Laucala Island - 10000
+Christmas Island - 10000
+Kalbarri - 10000
+Balgo Hills - 10000
+Inverway - 10000
+Wyndham - 10000
+Aktyubinsk - 10000
+Shimkent - 10000
+Aktau - 10000
+Uralsk - 10000
+Blagoveschensk - 10000
+Komsomolsk Na Amure - 10000
+Polyarnyj - 10000
+Karpathos - 10000
+Alexandroupolis - 10000
+Kerkyra - 10000
+Chania - 10000
+Kefallinia - 10000
+Ioannina - 10000
+Chios - 23953
+Mikonos - 10000
+Naxos Is - 10000
+Sitia - 10000
+Syros Island - 10000
+Thira - 10000
+Kithira - 10000
+Kavala - 10000
+Kozani - 10000
+Leros - 10000
+Lemnos - 10000
+Mytilene - 28322
+Milos - 10000
+Paros - 10000
+Preveza/Lefkas - 10000
+Samos - 10000
+Zakinthos - 10000
+Kastoria - 10000
+Imphal - 10000
+Jorhat - 10000
+Dimapur - 10000
+Deirezzor - 10000
+Dzaoudzi - 15339
+Nossi-Be - 10000
+Tamatave - 10000
+Praslin Island - 10000
+Gilgit - 10000
+Skardu - 10000
+Muzaffarabad - 10000
+Rawala Kot - 10000
+Saidu Sharif - 10000
+Brewarrina - 10000
+Cobar - 10000
+Coonamble - 10000
+Nyngan - 10000
+Coonabarabran - 10000
+Singleton - 10000
+Green Island - 10000
+Orchid Island - 10000
+Valesdir - 10000
+Aniwa - 10000
+Sara - 10000
+Maewo - 10000
+Redcliffe - 10000
+Walaha - 10000
+Olpoi - 10000
+Gaua - 10000
+Aneityum - 10000
+Futuna Island - 10000
+Ulei - 10000
+Saranac Lake - 10000
+Plattsburgh - 19806
+Canaima - 10000
+Ciudad Bolivar - 10000
+Cumana - 10000
+Carupano - 10000
+Los Roques - 10000
+Merida - 10000
+Maturin - 10000
+Puerto Ordaz - 10000
+San Tome - 10000
+El Vigia - 10000
+Cayman Brac - 10000
+Poughkeepsie - 30371
+Saarbrucken - 10000
+Andros Town - 10000
+Arthur's Town - 10000
+Spring Point - 10000
+Crooked Island - 10000
+Deadmans Cay - 10000
+Mangrove Cay - 10000
+Mayaguana - 10000
+Rock Sound - 10000
+San Andros - 10000
+Stella Maris - 10000
+South Andros - 10000
+Barra Colorado - 10000
+Golfito - 10000
+Playa Samara - 10000
+Palmar - 10000
+Nosara Beach - 10000
+Tambor - 10000
+Tamarindo - 10000
+Tortuquero - 10000
+Quepos - 10000
+Arad - 27967
+Fajardo - 32124
+Tortola - 10000
+Sao Tome Island - 10000
+Sao Vicente - 10000
+Spencer - 10000
+Ottumwa - 24624
+Westerland - 10000
+Mattoon - 18113
+Manistee - 10000
+Rzeszow - 10000
+Iqaluit - 10000
+Berens River - 10000
+Dauphin - 10000
+Flin Flon - 10000
+Gods Narrows - 10000
+Dryden - 10000
+Island Lake/Garden Hill - 10000
+Norway House - 10000
+Oxford House - 10000
+Pikangikum - 10000
+The Pas - 10000
+Red Lake - 10000
+Rankin Inlet - 10000
+Ste Therese Point - 10000
+Thompson - 10000
+Gillam - 10000
+Sioux Lookout - 10000
+Churchill - 10000
+Gods River - 10000
+Caye Caulker - 10000
+Dangriga - 10000
+Harrison - 15474
+Lake Tahoe - 10000
+Kosrae - 10000
+Bikini Atoll - 10000
+Likiep Island - 10000
+Majkin - 10000
+Ujae Island - 10000
+Wotho Island - 10000
+Lae Island - 10000
+Basco - 10000
+Khasab - 17904
+Nevis - 10000
+Iasi - 10000
+Tirgu Mures - 10000
+Tetuan - 10000
+Cap Skirring - 10000
+Benbecula - 10000
+Barra - 20894
+Campbeltown - 10000
+Islay - 10000
+Stornoway - 10000
+Tiree - 10000
+Ivano-Frankovsk - 10000
+Tivat - 10000
+Horta - 26676
+Porto Santo - 10000
+Terceira - 10000
+Lille - 15466
+Monte Carlo - 10000
+Aalesund - 10000
+Bardufoss - 10000
+Bodo - 10000
+Harstad-Narvik - 10000
+Forde - 10000
+Floro - 10000
+Orsta-Volda - 10000
+Kristiansund - 24013
+Molde - 31967
+Palanga - 18207
+Roros - 10000
+Sandane - 10000
+Sogndal - 10000
+Stord - 10000
+Tromso - 10000
+Fagernes - 10000
+Cap Haitien - 10000
+Jeremie - 10000
+Port de Paix - 10000
+Grand Turk - 10000
+North Caicos - 10000
+South Caicos - 10000
+Akureyri - 19219
+Bildudalur - 10000
+Egilsstadir - 10000
+Hornafjordur - 10000
+Isafjordur - 10000
+Kulusuk Island - 10000
+Saudarkrokur - 10000
+Vestmannaeyjar - 10000
+St Eustatius - 10000
+Saba - 10000
+Bacau - 10000
+Deer Lake - 10000
+Iles de la Madeleine - 10000
+Stephenville - 20120
+Yarmouth - 25243
+Miramichi - 17537
+Charlo - 10000
+Sept-Iles - 10000
+Kingman - 28912
+Lewistown - 10000
+Miles City - 10000
+Wolf Point - 10000
+Sidney - 20858
+Anaktuvuk Pass - 10000
+Barter Island - 10000
+Bettles - 10000
+Circle Hot Springs - 10000
+Eagle - 23612
+Fort Yukon - 10000
+Huslia - 10000
+Hughes - 10000
+Circle - 10000
+Lake Minchumina - 10000
+Manley Hot Springs - 10000
+Rampart - 10000
+Shungnak - 10000
+Stevens Village - 10000
+Tanana - 10000
+Beaver - 10000
+Dawson City - 10000
+Kaltag - 10000
+Nulato - 10000
+Kobuk - 10000
+Tok - 10000
+Utopia Creek - 10000
+Venetie - 10000
+Old Crow - 10000
+Angoon - 10000
+Elfin Cove - 10000
+Excursion Inlet - 10000
+Gustavus - 10000
+Hoonah - 10000
+Haines - 10000
+Kake - 10000
+Pelican - 10000
+Petersburg - 32477
+Skagway - 10000
+Sitka - 10000
+Tenakee - 10000
+Yakutat - 10000
+Hollis - 20269
+Coffman Cove - 10000
+Thorne Bay - 10000
+Craig - 10000
+Dolomi - 10000
+Edna Bay - 10000
+Point Baker - 10000
+Waterfall - 10000
+Metlakatla - 10000
+Smith Cove - 10000
+Wrangell - 10000
+Kasaan - 10000
+Long Island - 10000
+Naukiti - 10000
+Whale Pass - 10000
+Fort Chipewyan - 10000
+La Ronge - 10000
+Cambridge Bay - 10000
+Kugluktuk Coppermine - 10000
+Inuvik - 10000
+Snare Lake - 10000
+Fort Simpson - 10000
+Wha Ti  Lac la Martre - 10000
+Rae Lakes - 10000
+Resolute - 10000
+Norman Wells - 10000
+Deline - 10000
+Taloyoak - 10000
+Gjoa Haven - 10000
+Moosonee - 10000
+Fort Frances - 10000
+Fort Hope - 10000
+Kenora - 15096
+Webequie - 10000
+Kapuskasing - 10000
+St Anthony - 10000
+Goose Bay - 10000
+Gillies Bay - 10000
+Fort Nelson - 10000
+Dawson Creek - 10000
+Bella Bella - 10000
+El Salvador - 10000
+Balmaceda - 10000
+Bobo Dioulasso - 10000
+Kirkwall - 10000
+Wick - 10000
+Angouleme - 10000
+Kameshli - 10000
+Alderney - 10000
+Rostock-Laage - 10000
+Nordholz-Spieka - 10000
+Valverde - 10000
+Amboseli - 10000
+Kiwayu - 10000
+Lamu - 24525
+Mara Lodges - 10000
+Kastelorizo - 10000
+Geilo - 10000
+Mafia - 10000
+Nachingwea - 18058
+Niamtougou - 23261
+Levelock - 10000
+South Naknek - 10000
+Chuathbaluk - 10000
+Kalskag - 10000
+Shageluk - 10000
+Sleetmute - 10000
+Russian Mission - 10000
+Stony River - 10000
+Atmautluak - 10000
+Alakanuk - 10000
+Cape Romanzof - 10000
+Goodnews Bay - 10000
+Hooper Bay - 10000
+Kipnuk - 10000
+Kwigillingok - 10000
+Kwethluk - 10000
+Marshall - 23820
+Mekoryuk - 10000
+Toksook Bay - 10000
+Scammon Bay - 10000
+Togiak - 10000
+Chevak - 10000
+Napakiak - 10000
+Tuntutuliak - 10000
+Eek - 10000
+Napaskiak - 10000
+Tuluksak - 10000
+Newtok - 10000
+Adak Island - 10000
+False Pass - 10000
+King Cove - 10000
+Clarks Point - 10000
+Cape Newenham - 10000
+Ekwok - 10000
+Koliganek - 10000
+Ekuk - 10000
+Portage Creek - 10000
+Aleknagik - 10000
+Atka - 10000
+Nikolski - 10000
+Akutan - 10000
+Koyukuk - 10000
+Ruby - 10000
+Seldovia - 10000
+Port Graham - 10000
+Port Alsworth - 10000
+Takotna - 10000
+Tatalina - 10000
+Elim - 10000
+Gambell - 10000
+Koyuk - 10000
+Port Clarence - 10000
+Teller Mission - 10000
+Shishmaref - 10000
+Savoonga - 10000
+Stebbins - 10000
+White Mountain - 10000
+Tin City - 10000
+Buckland - 10000
+Kiana - 10000
+Kivalina - 10000
+Cape Lisburne - 10000
+Noorvik - 10000
+Point Hope - 10000
+Selawik - 10000
+Noatak - 10000
+Chignik - 10000
+Ivanof Bay - 10000
+Nuiqsut - 10000
+St Michael - 10000
+Atqasuk - 10000
+Point Lay - 10000
+Kotlik - 10000
+Mountain Village - 10000
+Sheldon Point - 10000
+Pico Island - 10000
+Williston - 26977
+Yankton - 10000
+Worland - 10000
+Arba Mintch - 10000
+Bahar Dar - 10000
+Debra Marcos - 10000
+Dembidollo - 10000
+Dessie - 10000
+Gore - 10000
+Hargeisa - 10000
+Lalibela - 10000
+Mekane Selam - 10000
+Makale - 10000
+Debra Tabor - 10000
+Bechar - 10000
+Djanet - 10000
+El Golea - 10000
+Ghardaia - 10000
+In Amenas - 10000
+In Salah - 32518
+Tbessa - 10000
+Illizi - 10000
+Agri - 10000
+Balikesir - 10000
+Kariba - 27600
+Ust-Ilimsk - 10000
+Houn - 10000
+Ghadames - 10000
+Sert - 10000
+Kardla - 10000
+Luderitz - 10000
+Mpacha - 10000
+Mokuti Lodge - 10000
+Ondangwa - 10000
+Swakopmund - 25047
+Havasupai - 10000
+Cobija - 26585
+Pointe Noire - 10000
+Gulu - 22331
+Koulamoutou - 16222
+Mouila - 22469
+Makokou - 10000
+Oyem - 30870
+Port Gentil - 10000
+Tchibanga - 19365
+Muscle Shoals - 10000
+Labrea - 10000
+Santarem - 10000
+Tabatinga - 28229
+Tefe - 10000
+Trombetas - 10000
+Maraba - 10000
+Macapa - 10000
+Monte Dourado - 10000
+Sao Luiz - 10000
+Tucurui - 10000
+Guapi - 10000
+Magangue - 10000
+Mompos - 10000
+Santa Barbara Zulia - 10000
+Apartado - 10000
+Capurgana - 10000
+Nuqui - 10000
+Puerto Berrio - 10000
+Fernando de Noronha - 10000
+Joao Pessoa - 10000
+Parnaiba - 10000
+Pantelleria - 10000
+Vitoria Da Conquista - 10000
+Bamiyan - 10000
+Aldan - 24426
+Pevek - 10000
+Nojabrxsk - 10000
+Watertown - 31915
+International Falls - 10000
+Thief River Falls - 10000
+Huron - 10000
+Hibbing/Chisholm - 10000
+Devils Lake - 10000
+Fort Dodge - 24649
+Abu Simbel - 10000
+Yelimane - 10000
+Kenieba - 10000
+Nioro - 10000
+St Georges de L'oyapock - 10000
+Saul - 10000
+Canouan Island - 10000
+Union Island - 10000
+Nema - 10000
+Selibaby - 10000
+La Desirade - 10000
+Marie Galante - 10000
+Terre-de-Haut - 10000
+Al Ghaydah - 10000
+Ambatomainty - 10000
+Antalaha - 34112
+Belo - 10000
+Fort Dauphin - 10000
+Majunga - 10000
+Mananjary - 27686
+Maintirano - 25788
+Ste Marie - 10000
+Tulear - 10000
+Tsaratanana - 16761
+Morafenobe - 10000
+Maroantsetra - 23859
+Massena - 10000
+Ogdensburg - 10000
+Carajas - 10000
+Juina - 10000
+Corumba - 10000
+Mucuri - 26775
+Guajara-Mirim - 10000
+Torsby - 10000
+Sveg - 10000
+Waskaganish - 10000
+Inukjuak - 10000
+Sanikiluaq - 10000
+Chisasibi - 10000
+Kangirsuk - 10000
+Puvirnituq - 10000
+Tasiujuaq - 10000
+Gaspe - 10000
+Kufrah - 10000
+Misurata - 10000
+Luang Namtha - 10000
+Oudomxay - 10000
+Xieng Khouang - 10000
+Assab - 21300
+Ghat - 24347
+Pangkalanbun - 10000
+Ketapang - 10000
+Sintang - 10000
+Rachgia - 10000
+Belaga - 10000
+Tomanggong - 10000
+Kamembe - 10000
+Neerlerit Inaat - 10000
+Nuuk - 14798
+Ilulissat - 10000
+Aasiaat - 10000
+Sisimiut - 10000
+Maniitsoq - 10000
+Pituffik - 10000
+Bronnoysund - 10000
+Mosjoen - 10000
+Mo I Rana - 10000
+Namsos - 10000
+Roervik - 10000
+Sandnessjoen - 10000
+Groennedal - 10000
+Qaqortoq - 10000
+Nanortalik - 10000
+Narsaq - 10000
+Alluitsup Paa - 10000
+Khajuraho - 10000
+Bandar Lengeh - 10000
+Wudinna - 10000
+Windorah - 10000
+Hooker Creek - 10000
+Ngukurr - 10000
+Victoria River Downs - 10000
+Milingimbi - 10000
+Ramingining - 10000
+Balalae - 10000
+Choiseul Bay - 10000
+Mono - 10000
+Santa Ana Island - 10000
+Bedourie - 10000
+Burketown - 10000
+Cape Vogel - 10000
+Nissan Island - 10000
+Rabaraba - 10000
+Salamo - 10000
+Wedau - 10000
+Sehulea - 10000
+Vivigani - 10000
+Gasmata - 10000
+Jacquinot Bay - 10000
+Kandrian - 10000
+Linga Linga - 10000
+Uvol - 10000
+Ihu - 10000
+Kikori - 10000
+Emirau - 10000
+Mapua - 10000
+Mussau - 10000
+Garaina - 10000
+Indagen - 10000
+Lablab - 10000
+Menyamya - 10000
+Namatanai - 10000
+Boang - 10000
+Saidor - 10000
+Ioma - 10000
+Itokama - 10000
+Safia - 10000
+Open Bay - 10000
+Silur - 10000
+Sule - 10000
+Telefomin - 10000
+Garasa - 10000
+Kaintiba - 10000
+Tekadu - 10000
+Hayfields - 10000
+Vanimo - 10000
+Richmond - 28587
+Cunnamulla - 10000
+Puerto Asis - 10000
+Bahia Solano - 10000
+Kleinzee - 10000
+Gobernador Gregores - 10000
+Alto Rio Senguerr - 10000
+Club Makokola - 10000
+Mfuwe - 10000
+Kasane - 10000
+Ulundi - 20753
+Hwange National Park - 10000
+Guayaramerin - 10000
+Magdalena - 16214
+San Joaquin - 10000
+Borroloola - 10000
+Boigu Island - 10000
+Halls Creek - 10000
+Chitral - 10000
+Para Chinar - 10000
+Socotra - 10000
+Jomsom - 10000
+Mong Hsat - 10000
+Khamti - 10000
+Qiemo - 18893
+Sharurah - 10000
+King Khalid Military City - 10000
+Merowe - 10000
+Wadi Halfa - 10000
+Sui - 10000
+Useless Loop - 10000
+Nicholson - 10000
+Kasos Island - 10000
+Astypalaia Island - 10000
+Berau - 10000
+Long Bawan - 10000
+Ambanja - 30621
+Vohemar - 10000
+Vatomandry - 10000
+Mandritsara - 10000
+Bourke - 10000
+Walgett - 10000
+Scone - 10000
+Sola - 10000
+Santa Elena - 18410
+Guiria - 10000
+Ahuas - 10000
+Guanaja - 10000
+Brus Laguna - 10000
+Palacios - 10000
+Puerto Lempira - 10000
+Utila - 10000
+Maio - 10000
+Santo Antao - 10000
+Principe Island - 10000
+Clyde River - 10000
+Igloolik - 10000
+Kimmirut/Lake Harbour - 10000
+Cape Dorset - 10000
+Hall Beach - 10000
+Broughton Island - 10000
+Pangnirtung - 10000
+Nanisivik - 10000
+Swan River - 10000
+Red Sucker Lake - 10000
+Cross Lake - 10000
+Poplar Hill - 10000
+Deer Lake - 10000
+Baker Lake - 10000
+Chesterfield Inlet - 10000
+Arviat - 10000
+Repulse Bay - 10000
+Whale Cove - 10000
+Coral Harbour - 10000
+Lac Brochet - 10000
+Pukatawagan - 10000
+South Indian Lake - 10000
+Tadoule Lake - 10000
+Brochet - 10000
+Leaf Rapids - 10000
+Lynn Lake - 10000
+York Landing - 10000
+Shamattawa - 10000
+Kingfisher Lake - 10000
+Muskrat Dam - 10000
+Kasabonika - 10000
+Cat Lake - 10000
+Fort Severn - 10000
+Pickle Lake - 10000
+Big Trout Lake - 10000
+Round Lake - 18461
+Sandy Lake - 10000
+Masirah - 10000
+Corvo Island - 10000
+Flores Island - 10000
+Graciosa Island - 10000
+Sao Jorge Island - 10000
+Andenes - 10000
+Leknes - 10000
+Narvik - 10000
+Rost - 10000
+Stokmarknes - 10000
+Svolvaer - 10000
+Vaeroy - 10000
+Alta - 15094
+Hasvik - 10000
+Hammerfest - 10000
+Kirkenes - 10000
+Lakselv - 10000
+Longyearbyen - 2368
+Sorkjosen - 10000
+Vadso - 10000
+Salt Cay - 10000
+Middle Caicos - 10000
+Grimsey - 10000
+Vopnafjordur - 10000
+Thorshofn - 10000
+Siglufjordur - 10000
+Bonaventure - 10000
+Havre St Pierre - 10000
+Chevery - 10000
+Schefferville - 10000
+Natashquan - 10000
+Wabush - 10000
+Havre - 10000
+Glendive - 10000
+Central - 28295
+Chalkyitsik - 10000
+Arctic Village - 10000
+Boundary - 10000
+Chicken - 10000
+Northway - 10000
+Tetlin - 10000
+Chisana - 10000
+Stony Rapids - 10000
+Points North Landing - 10000
+Wollaston Lake - 10000
+Holman Island - 10000
+Fort Good Hope - 10000
+Paulatuk - 10000
+Sachs Harbour - 10000
+Tuktoyaktuk - 10000
+Grise Fiord - 10000
+Arctic Bay - 10000
+Tulita Fort Norman - 10000
+Pelly Bay - 10000
+Attawapiskat - 10000
+Fort Albany - 10000
+Lansdowne House - 10000
+Nakina - 10000
+Hearst - 10000
+Blanc Sablon - 10000
+Mary's Harbour - 10000
+Nain - 10000
+Makkovik - 10000
+Rigolet - 10000
+Churchill Falls - 10000
+Klemtu - 10000
+Eday - 10000
+Sanday - 10000
+North Ronaldsay - 10000
+Papa Westray - 10000
+Stronsay - 10000
+Westray - 10000
+Helgoland - 10000
+Seronera - 10000
+Samburu - 10000
+Igiugig - 10000
+Crooked Creek - 10000
+Grayling - 10000
+Red Devil - 10000
+Platinum - 10000
+Akiachak - 10000
+Akiak - 10000
+New Stuyahok - 10000
+Nanwalek - 10000
+Golovin - 10000
+Jinka - 32115
+Beles - 10000
+Asosa - 10000
+Beica - 10000
+Kabri Dar - 10000
+Gode - 10000
+Humera - 10000
+Neghelli - 10000
+Gambela - 10000
+Tippi - 10000
+Bordj Badji Mokhtar - 10000
+Loubomo - 10000
+Gamba - 10000
+Omboue - 10000
+Tarauaca - 10000
+Obidos - 10000
+Sao Gabriel - 10000
+Porto de Moz - 10000
+Oiapoque - 10000
+Goundam - 10000
+Tombouctou - 10000
+Ngaoundere - 10000
+Besalampy - 10000
+Soalala - 10000
+Analalava - 10000
+Mampikony - 10000
+Port Berge - 10000
+Tambohorano - 10000
+Manja - 10000
+Morombe - 10000
+Antsalova - 10000
+Araguaina - 10000
+Ji-Parana - 10000
+Aripuana - 10000
+Alta Floresta - 10000
+Matupa - 10000
+Costa Marques - 10000
+Nemiscau - 10000
+East Main - 10000
+Wemindji - 10000
+Akulivik - 10000
+Salluit - 10000
+Bossaso - 10000
+Putussibau - 10000
+Qasigiannguit - 10000
+Qeqertarsuaq - 10000
+Upernavik - 10000
+Uummannaq - 10000
+Paamiut - 10000
+Julia Creek - 10000
+Birdsville - 10000
+Kalkurung - 10000
+Agaun - 10000
+Aragip - 10000
+Biniguni - 10000
+Gonalia - 10000
+Wasum - 10000
+Baimuru - 10000
+Kanabea - 10000
+Kamusi - 10000
+Konge - 10000
+Malekolon - 10000
+Dodoima - 10000
+Kira - 10000
+Embessa - 10000
+Green River - 10000
+Nuku - 10000
+Aitape - 10000
+Thargomindah - 10000
+Alexander Bay - 10000
+Karonga - 34207
+Kasaba Bay - 10000
+Mabuiag Island - 10000
+Kubin Island - 10000
+Badu Island - 10000
+Murray Island - 10000
+Darnley Island - 10000
+Billiluna - 10000
+Putao - 10000
+Denham - 10000
+Forbes - 10000
+West Wyalong - 10000
+Young - 16756
+Cootamundra - 10000
+Lightning Ridge - 10000
+Mota Lava - 10000
+Torres - 32791
+Cauquira - 10000
+Pond Inlet - 10000
+North Spirit Lake - 10000
+Sachigo Lake - 10000
+Angling Lake - 10000
+Bearskin Lake - 10000
+Batsfjord - 10000
+Mehamn - 10000
+Berlevag - 10000
+Honningsvag - 10000
+Vardoe - 10000
+Pakuashipi - 10000
+Gethsemani - 10000
+La Tabatiere - 10000
+Tete-a-La Baleine - 10000
+Kegaska - 10000
+Center Island - 10000
+Decatur Island - 10000
+Uranium City - 10000
+Peawanuck - 10000
+Kaschechewan - 10000
+Ogoki - 10000
+Davis Inlet - 10000
+Hopedale - 10000
+Postville - 10000
+Wangerooge - 10000
+Anvik - 10000
+Mizan Teferi - 10000
+Tum - 10000
+Soyo - 10000
+Nkayi - 10000
+Jacareacanga - 10000
+Oriximina - 10000
+Ankavandra - 10000
+Ivujivik - 10000
+Kangiqsujuaq - 10000
+Pumani - 10000
+Manguna - 10000
+Kuri - 10000
+Kabwum - 10000
+Anguganak - 10000
+Lumi - 10000
+Brize Norton - 10000
+Miandrivazo - 20631
+Satwag - 10000
+Gewoya - 10000
+Black Tickle - 10000
+Port Hope Simpson - 10000
+Derim - 10000
+Williams Harbour - 10000
+Yalumet - 10000
+Wasu - 10000
