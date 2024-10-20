@@ -1,82 +1,29 @@
-Bora Bora - 10000
-Huahine - 10000
-Moorea - 10000
-Raiatea Island - 10000
-Rangiroa Island - 10000
-Rurutu - 10000
-Tikehau Atoll - 10000
-Takaroa - 10000
-Tubuai - 10000
-Manihi - 10000
-Blenheim - 28800
-Hamilton - 902
-Nelson - 29317
-Nuku'alofa - 10000
-Port Vila - 10000
-Wanganui - 10000
-Wellington - 22816
-Johnston Island - 10000
 Majuro - 25400
-Pago Pago - 11500
-Koumac - 10000
-Maupiti Island - 10000
-Takapoto - 10000
-Oshima - 10000
-Futuna - 10000
-Maota Savail Is - 10000
-Blackall - 10000
-Charleville - 10000
-Gladstone - 30489
-Nauru Island - 10000
-Mount Isa - 22785
-Longreach - 10000
-Maryborough - 15479
-Sunshine Coast - 10000
-Roma - 10000
+Minneapolis/St Paul - 10000
+Sao Paulo - 10000
+Asuncion - 10000
+Aruba - 10000
+Bogota - 10000
+Cordoba - 10000
+San Martin de Los Andes - 10000
+Florianopolis - 10000
+Neuquen - 10000
 Parana - 10000
-Rio Cuarto - 10000
 Rio Gallegos - 10000
-Chatham Island - 10000
-Mount Cook - 10000
-Cooktown - 10000
-Coen - 10000
-Edward River - 10000
-Gove - 10000
-Lockhart River - 10000
-Karumba - 10000
-Kowanyama - 10000
-Lizard Island - 10000
-Normanton - 10000
+Santa Cruz - 27775
+Tucuman - 10000
+Esquel - 28486
 Yorke Island - 10000
-Savusavu - 10000
-Taveuni - 10000
-Albany - 33650
-Esperance - 10000
-Kalgoorlie - 10000
-Margaret River - 10000
-Te Anau - 10000
-Bathurst - 33110
-Griffith - 18154
-Eua - 10000
-Ha'apai - 10000
-Vava'u - 10000
-Dillons Bay - 10000
-Emae - 10000
-Ipota - 10000
-Lamen Bay - 10000
-Lonorore - 10000
 Longana - 10000
-Lamap - 10000
-Norsup - 10000
 Espiritu Santo - 10000
-South West Bay - 10000
 Tanna - 10000
-Tongoa - 10000
-Craig Cove - 10000
-Timaru - 28600
-Westport - 26391
-Wanaka - 10000
-Pohnpei - 10000
+Merida - 10000
+St Thomas Island - 10000
+Waterloo - 29778
+Rhinelander - 10000
+Long Beach - 15555
+Roatan - 10000
+Victoria - 25139
 Airok - 10000
 Aur Island - 10000
 Jabot - 10000
@@ -91,48 +38,61 @@ Jaluit Island - 10000
 Utirik Island - 10000
 Woja - 10000
 Wotje Island - 10000
-Culion - 10000
-Montrose - 19062
-Ofu - 10000
-Tau - 10000
-Port Angeles - 19448
+Nantucket - 10000
+Port au Prince - 10000
+Providenciales - 10000
+St Maarten - 10000
+Quebec - 10000
 Fairbanks - 32325
+Kalispell - 22052
 Juneau - 32756
 Ketchikan - 10000
+Crescent City - 10000
 Fort Mcmurray - 10000
 High Level - 10000
 Peace River - 10000
 Yellowknife - 20340
 Hay River - 10000
 Rainbow Lake - 10000
+St Kitts - 10000
 Sault Ste Marie - 10000
 Sudbury - 22213
-Fort St John - 10000
+St John - 10000
+Prince Rupert - 10000
 Whitehorse - 28201
+Copiapo - 10000
 Alamogordo - 30753
-Gallup - 23240
 Los Alamos - 10000
-Silver City - 10000
-Bergen - 29974
 King Salmon - 10000
 Aniak - 10000
 Bethel - 10000
 Cold Bay - 10000
+Cordova - 29289
 Dillingham - 10000
 Dutch Harbor - 10000
 Galena - 10000
 Homer - 10000
+Iliamna - 10000
 Mcgrath - 10000
 Nome - 10000
 Kotzebue - 10000
 Port Heiden - 10000
 Prudhoe Bay/Deadhorse - 10000
+Sand Point - 10000
+St George Island - 10000
 Unalakleet - 10000
 Barrow - 10000
 St Marys - 10000
+St Paul Island - 10000
+Augusta - 30723
+Bar Harbor - 10000
+Martha's Vineyard - 10000
+Ponta Delgada - 20056
+Rockland - 17982
+Greenville - 16434
+Flores - 20464
 Alliance - 22055
 Chadron - 10000
-Dickinson - 19895
 Kearney - 33021
 Garden City - 26920
 Hays - 21092
@@ -140,89 +100,100 @@ North Platte - 24194
 Liberal - 20746
 Mccook - 10000
 Pierre - 10000
-Kerry County - 10000
+Pellston - 10000
 North Eleuthera - 10000
-Inagua - 10000
 Rio Dulce - 10000
+Guerrero Negro - 10000
 Ely - 19090
 Grand Canyon - 10000
 Cuzco - 10000
-Huanuco - 10000
 Jauja - 21057
 La Paz - 24716
 Tarapoto - 10000
+Ocho Rios - 10000
+Port Antonio - 10000
 Greenville - 16434
+Laurel - 26215
+Huatulco - 10000
+Minatitlan - 10000
+Poza Rica - 10000
+Puerto Escondido - 25902
+Belem - 10000
+Cartagena - 16875
+Medellin - 10000
+St Croix Island - 10000
 Dodge City - 27912
 Great Bend - 15717
+Kirksville - 17520
+Escanaba - 10000
 Bemidji - 10000
-Brookings - 23657
 Brainerd - 10000
 Jamestown - 637
 Mason City - 27366
 St Cloud - 10000
+Fort de France - 10000
+New London/Groton - 10000
 Altoona - 16984
 Watertown - 31915
-Cumberland - 20130
+Clarksburg - 16152
+Dubois - 10000
 Johnstown - 19966
-Latrobe - 10000
+Morgantown - 30708
 Hamilton - 902
 Bocas del Toro - 10000
 Changuinola - 17997
 El Real - 10000
+Colon - 10000
+Contadora - 10000
+Garachine - 10000
 La Palma - 15904
+Sambu - 10000
+Elko - 20279
+Aracatuba - 10000
+Brasilia - 10000
 Criciuma - 10000
-Mayaguez - 10000
-Arvidsjaur - 10000
-Hagfors - 10000
-Kiruna - 17037
-Lulea - 10000
-Lycksele - 10000
-Norrkoping - 10000
-Ronneby - 10000
-Soderhamn - 10000
-Storuman - 10000
-Umea - 10000
-Visby - 23402
-Vilhelmina - 10000
+Cuiaba - 10000
+Goiania - 10000
+Iguassu Falls - 10000
+Ilheus - 10000
+Maceio - 10000
+Maringa - 10000
+Marilia - 10000
+President Prudente - 10000
+Ribeirao Preto - 10000
+Sao Jose Dos Campos - 10000
+Sao Jose do Rio Preto - 10000
+Uberlandia - 10000
+Vitoria - 10000
+Chapeco - 10000
+Anguilla - 10000
+Beef Island - 10000
+St Barthelemy - 10000
+Virgin Gorda - 10000
+Vieques - 10000
+Baie Comeau - 10000
+Bagotville - 10000
+La Grande - 10000
 Kuujjuarapik - 10000
+Chibougamau - 10000
+Alma - 29526
+Rouyn - 10000
+Val D'Or - 10000
+Kuujjuaq - 10000
 Mont Joli - 10000
-Belep Island - 10000
-Chi Mei - 10000
-Bulgan - 17348
 Kangerlussuaq - 10000
 Narsarsuaq - 10000
-Kemi/Tornio - 10000
-Savonlinna - 27353
-Ramsar - 10000
-Rebun - 10000
-Asau - 10000
-Broken Hill - 18027
-Quilpie - 10000
-Garden Point - 10000
-Maningrida - 10000
-Auki - 10000
-Bellona - 10000
 Sege - 10000
-Fera Island - 10000
 Gizo - 10000
-Kirakira - 10000
 Munda - 10000
-Parasi - 10000
-Santa Cruz Island - 10000
-Suavanao - 10000
-Rennell - 10000
-Brampton Island - 10000
-Boulia - 10000
 Doomadgee Mission - 10000
-Winton - 10000
+Wanigela - 10000
 Amazon Bay - 10000
 Bulolo - 16042
-Daru - 15214
 Goroka - 18503
 Alotau - 10000
 Mount Hagen - 33623
 Hoskins - 10000
-Kokoda - 10000
 Kerema - 10000
 Kavieng - 10000
 Lihir Island - 10000
@@ -233,56 +204,35 @@ Mendi - 26252
 Popondetta - 28198
 Rabaul - 10000
 Tabubil - 10000
+Tufi - 10000
 Tari - 10000
 Kiunga - 10000
 Wewak - 18230
-Kempsey - 10000
-Hughenden - 10000
 St George - 10000
-El Yopal - 10000
+San Andres Island - 10000
+Cucuta - 10000
+Ibague - 10000
+Monteria - 10000
+Popayan - 10000
+Quibdo - 10000
 El Bolson - 10000
-Oranjemund - 10000
-Springbok - 10000
 Perito Moreno - 10000
 Puerto Deseado - 10000
+Rio Mayo - 10000
 Malargue - 10000
-San Antonio Oeste - 16966
 Santo Angelo - 10000
-President Roque Saenz Pena - 10000
 Lago Argentino - 10000
 Rio Turbio - 10000
 Santa Cruz - 27775
+Campos - 10000
+Puerto Suarez - 10000
 El Maiten - 10000
-Elcho Island - 10000
-Lake Evella - 10000
-Numbulwar - 10000
 Mornington Island - 10000
 Thursday Island - 10000
 Coconut Island - 10000
 Warraber Island - 10000
 Yam Island - 10000
-Fitzroy Crossing - 10000
-Bario - 10000
-Mulu - 10000
-Cicia - 10000
-Koro Island - 10000
-Bureta - 10000
-Moala - 10000
-Ngau Island - 10000
-Vanuabalavu - 10000
-Laucala Island - 10000
-Kalbarri - 10000
-Balgo Hills - 10000
-Kozani - 10000
-Brewarrina - 10000
-Cobar - 10000
-Nyngan - 10000
-Coonabarabran - 10000
-Singleton - 10000
-Orchid Island - 10000
-Valesdir - 10000
 Aniwa - 10000
-Sara - 10000
 Maewo - 10000
 Redcliffe - 10000
 Walaha - 10000
@@ -290,22 +240,32 @@ Olpoi - 10000
 Gaua - 10000
 Aneityum - 10000
 Futuna Island - 10000
-Ulei - 10000
-Cayman Brac - 10000
-Andros Town - 10000
-Arthur's Town - 10000
+Canaima - 10000
+Cumana - 10000
+Carupano - 10000
+Merida - 10000
+Maturin - 10000
+Puerto Ordaz - 10000
+El Vigia - 10000
+Poughkeepsie - 30371
 Spring Point - 10000
 Crooked Island - 10000
 Deadmans Cay - 10000
 Mangrove Cay - 10000
-Mayaguana - 10000
 Rock Sound - 10000
 San Andros - 10000
 Stella Maris - 10000
-South Andros - 10000
 Barra Colorado - 10000
+Golfito - 10000
+Playa Samara - 10000
+Palmar - 10000
+Nosara Beach - 10000
+Tambor - 10000
 Tamarindo - 10000
+Tortuquero - 10000
+Fajardo - 32124
 Tortola - 10000
+Sao Vicente - 10000
 Spencer - 10000
 Ottumwa - 24624
 Mattoon - 18113
@@ -316,7 +276,6 @@ Flin Flon - 10000
 Gods Narrows - 10000
 Dryden - 10000
 Island Lake/Garden Hill - 10000
-Norway House - 10000
 Oxford House - 10000
 Pikangikum - 10000
 The Pas - 10000
@@ -329,6 +288,8 @@ Sioux Lookout - 10000
 Churchill - 10000
 Gods River - 10000
 Caye Caulker - 10000
+Dangriga - 10000
+Lake Tahoe - 10000
 Kosrae - 10000
 Bikini Atoll - 10000
 Likiep Island - 10000
@@ -336,34 +297,24 @@ Majkin - 10000
 Ujae Island - 10000
 Wotho Island - 10000
 Lae Island - 10000
-Porto Santo - 10000
-Aalesund - 10000
+Nevis - 10000
+Horta - 26676
+Terceira - 10000
 Bardufoss - 10000
 Bodo - 10000
-Harstad-Narvik - 10000
-Forde - 10000
-Floro - 10000
-Orsta-Volda - 10000
-Kristiansund - 24013
-Molde - 31967
-Sandane - 10000
-Sogndal - 10000
-Stord - 10000
 Tromso - 10000
-Fagernes - 10000
 Cap Haitien - 10000
-Jeremie - 10000
+Port de Paix - 10000
 Grand Turk - 10000
 North Caicos - 10000
 South Caicos - 10000
 Akureyri - 19219
 Bildudalur - 10000
 Egilsstadir - 10000
-Hornafjordur - 10000
 Isafjordur - 10000
 Kulusuk Island - 10000
 Saudarkrokur - 10000
-Vestmannaeyjar - 10000
+Iles de la Madeleine - 10000
 Miramichi - 17537
 Charlo - 10000
 Sept-Iles - 10000
@@ -382,7 +333,6 @@ Huslia - 10000
 Hughes - 10000
 Circle - 10000
 Lake Minchumina - 10000
-Manley Hot Springs - 10000
 Rampart - 10000
 Shungnak - 10000
 Stevens Village - 10000
@@ -398,6 +348,7 @@ Venetie - 10000
 Old Crow - 10000
 Angoon - 10000
 Elfin Cove - 10000
+Excursion Inlet - 10000
 Gustavus - 10000
 Hoonah - 10000
 Haines - 10000
@@ -432,10 +383,12 @@ Snare Lake - 10000
 Fort Simpson - 10000
 Wha Ti  Lac la Martre - 10000
 Rae Lakes - 10000
+Resolute - 10000
 Norman Wells - 10000
 Deline - 10000
 Taloyoak - 10000
 Gjoa Haven - 10000
+Moosonee - 10000
 Fort Frances - 10000
 Fort Hope - 10000
 Kenora - 15096
@@ -443,14 +396,13 @@ Webequie - 10000
 Kapuskasing - 10000
 St Anthony - 10000
 Goose Bay - 10000
-Gillies Bay - 10000
-Fort Nelson - 10000
 Dawson Creek - 10000
-Bella Bella - 10000
+El Salvador - 10000
+Balmaceda - 10000
 Kirkwall - 10000
-Amboseli - 10000
-Geilo - 10000
+Nordholz-Spieka - 10000
 Levelock - 10000
+South Naknek - 10000
 Chuathbaluk - 10000
 Kalskag - 10000
 Shageluk - 10000
@@ -460,7 +412,6 @@ Stony River - 10000
 Atmautluak - 10000
 Alakanuk - 10000
 Cape Romanzof - 10000
-Goodnews Bay - 10000
 Hooper Bay - 10000
 Kipnuk - 10000
 Kwigillingok - 10000
@@ -486,11 +437,14 @@ Ekwok - 10000
 Koliganek - 10000
 Ekuk - 10000
 Portage Creek - 10000
+Aleknagik - 10000
+Atka - 10000
 Nikolski - 10000
-Akutan - 10000
 Koyukuk - 10000
 Ruby - 10000
+Seldovia - 10000
 Port Graham - 10000
+Port Alsworth - 10000
 Takotna - 10000
 Tatalina - 10000
 Elim - 10000
@@ -501,8 +455,8 @@ Teller Mission - 10000
 Shishmaref - 10000
 Savoonga - 10000
 Stebbins - 10000
+White Mountain - 10000
 Tin City - 10000
-Buckland - 10000
 Kiana - 10000
 Kivalina - 10000
 Cape Lisburne - 10000
@@ -519,54 +473,72 @@ Point Lay - 10000
 Kotlik - 10000
 Mountain Village - 10000
 Sheldon Point - 10000
-Williston - 26977
+Pico Island - 10000
 Yankton - 10000
-Worland - 10000
-Dembidollo - 10000
+Bechar - 10000
+Djanet - 10000
+El Golea - 10000
 Ghardaia - 10000
+In Amenas - 10000
+In Salah - 32518
 Illizi - 10000
+Sert - 10000
 Havasupai - 10000
 Cobija - 26585
-Mouila - 22469
-Port Gentil - 10000
 Muscle Shoals - 10000
 Labrea - 10000
-Guapi - 10000
+Santarem - 10000
+Tabatinga - 28229
+Tefe - 10000
+Trombetas - 10000
+Maraba - 10000
+Macapa - 10000
+Monte Dourado - 10000
+Sao Luiz - 10000
+Tucurui - 10000
+Magangue - 10000
 Mompos - 10000
-Pevek - 10000
+Santa Barbara Zulia - 10000
+Apartado - 10000
+Capurgana - 10000
+Nuqui - 10000
+Puerto Berrio - 10000
+Fernando de Noronha - 10000
+Joao Pessoa - 10000
+Parnaiba - 10000
+Vitoria Da Conquista - 10000
 Watertown - 31915
 International Falls - 10000
 Thief River Falls - 10000
 Huron - 10000
-Hibbing/Chisholm - 10000
 Devils Lake - 10000
 Fort Dodge - 24649
 Yelimane - 10000
+Kenieba - 10000
 Nioro - 10000
+Saul - 10000
 Canouan Island - 10000
+Union Island - 10000
 Nema - 10000
 Selibaby - 10000
 Terre-de-Haut - 10000
-Ambatomainty - 10000
-Belo - 10000
-Fort Dauphin - 10000
-Majunga - 10000
-Mananjary - 27686
-Maintirano - 25788
 Tulear - 10000
-Morafenobe - 10000
 Massena - 10000
 Ogdensburg - 10000
+Carajas - 10000
 Juina - 10000
+Corumba - 10000
+Mucuri - 26775
 Guajara-Mirim - 10000
-Torsby - 10000
-Sveg - 10000
+Waskaganish - 10000
 Inukjuak - 10000
 Sanikiluaq - 10000
+Chisasibi - 10000
+Kangirsuk - 10000
 Puvirnituq - 10000
+Tasiujuaq - 10000
 Gaspe - 10000
-Sintang - 10000
-Belaga - 10000
+Ghat - 24347
 Neerlerit Inaat - 10000
 Nuuk - 14798
 Ilulissat - 10000
@@ -580,31 +552,21 @@ Mo I Rana - 10000
 Namsos - 10000
 Roervik - 10000
 Sandnessjoen - 10000
-Groennedal - 10000
 Qaqortoq - 10000
 Nanortalik - 10000
-Narsaq - 10000
 Alluitsup Paa - 10000
-Windorah - 10000
-Ngukurr - 10000
-Milingimbi - 10000
-Ramingining - 10000
 Balalae - 10000
 Choiseul Bay - 10000
 Mono - 10000
-Santa Ana Island - 10000
-Bedourie - 10000
 Burketown - 10000
 Cape Vogel - 10000
-Nissan Island - 10000
 Rabaraba - 10000
-Salamo - 10000
 Wedau - 10000
+Sehulea - 10000
 Vivigani - 10000
 Gasmata - 10000
 Jacquinot Bay - 10000
 Kandrian - 10000
-Linga Linga - 10000
 Uvol - 10000
 Ihu - 10000
 Kikori - 10000
@@ -632,26 +594,14 @@ Vanimo - 10000
 Richmond - 28587
 Cunnamulla - 10000
 Puerto Asis - 10000
-Bahia Solano - 10000
-Kleinzee - 10000
 Gobernador Gregores - 10000
-Ulundi - 20753
+Alto Rio Senguerr - 10000
 Guayaramerin - 10000
-Magdalena - 16214
-San Joaquin - 10000
-Borroloola - 10000
 Boigu Island - 10000
 Halls Creek - 10000
-Qiemo - 18893
 Useless Loop - 10000
-Nicholson - 10000
-Kasos Island - 10000
-Berau - 10000
-Vatomandry - 10000
-Bourke - 10000
-Walgett - 10000
-Scone - 10000
 Sola - 10000
+Santa Elena - 18410
 Guiria - 10000
 Ahuas - 10000
 Guanaja - 10000
@@ -659,6 +609,8 @@ Brus Laguna - 10000
 Palacios - 10000
 Puerto Lempira - 10000
 Utila - 10000
+Maio - 10000
+Santo Antao - 10000
 Clyde River - 10000
 Igloolik - 10000
 Kimmirut/Lake Harbour - 10000
@@ -669,7 +621,6 @@ Pangnirtung - 10000
 Nanisivik - 10000
 Swan River - 10000
 Red Sucker Lake - 10000
-Cross Lake - 10000
 Poplar Hill - 10000
 Deer Lake - 10000
 Baker Lake - 10000
@@ -677,14 +628,13 @@ Chesterfield Inlet - 10000
 Arviat - 10000
 Repulse Bay - 10000
 Whale Cove - 10000
+Coral Harbour - 10000
 Lac Brochet - 10000
 Pukatawagan - 10000
 South Indian Lake - 10000
-Tadoule Lake - 10000
 Brochet - 10000
 Leaf Rapids - 10000
 Lynn Lake - 10000
-York Landing - 10000
 Shamattawa - 10000
 Kingfisher Lake - 10000
 Muskrat Dam - 10000
@@ -695,6 +645,9 @@ Pickle Lake - 10000
 Big Trout Lake - 10000
 Round Lake - 18461
 Sandy Lake - 10000
+Corvo Island - 10000
+Flores Island - 10000
+Graciosa Island - 10000
 Sao Jorge Island - 10000
 Andenes - 10000
 Leknes - 10000
@@ -702,7 +655,6 @@ Narvik - 10000
 Rost - 10000
 Stokmarknes - 10000
 Svolvaer - 10000
-Vaeroy - 10000
 Alta - 15094
 Hasvik - 10000
 Hammerfest - 10000
@@ -716,7 +668,6 @@ Middle Caicos - 10000
 Grimsey - 10000
 Vopnafjordur - 10000
 Thorshofn - 10000
-Siglufjordur - 10000
 Bonaventure - 10000
 Havre St Pierre - 10000
 Chevery - 10000
@@ -728,79 +679,75 @@ Glendive - 10000
 Central - 28295
 Chalkyitsik - 10000
 Arctic Village - 10000
+Boundary - 10000
 Chicken - 10000
 Northway - 10000
-Tetlin - 10000
 Chisana - 10000
 Stony Rapids - 10000
 Points North Landing - 10000
-Wollaston Lake - 10000
 Holman Island - 10000
 Fort Good Hope - 10000
 Paulatuk - 10000
 Sachs Harbour - 10000
 Tuktoyaktuk - 10000
+Grise Fiord - 10000
 Tulita Fort Norman - 10000
 Pelly Bay - 10000
+Attawapiskat - 10000
+Fort Albany - 10000
 Lansdowne House - 10000
 Nakina - 10000
 Hearst - 10000
+Blanc Sablon - 10000
 Nain - 10000
 Makkovik - 10000
 Rigolet - 10000
 Churchill Falls - 10000
-Klemtu - 10000
-Eday - 10000
 Sanday - 10000
 North Ronaldsay - 10000
 Papa Westray - 10000
 Stronsay - 10000
 Westray - 10000
-Igiugig - 10000
+Helgoland - 10000
 Crooked Creek - 10000
 Grayling - 10000
 Red Devil - 10000
-Platinum - 10000
 Akiachak - 10000
 Akiak - 10000
 New Stuyahok - 10000
 Nanwalek - 10000
+Golovin - 10000
+Beles - 10000
 Asosa - 10000
 Beica - 10000
-Humera - 10000
-Gambela - 10000
+Kabri Dar - 10000
 Tippi - 10000
 Bordj Badji Mokhtar - 10000
-Gamba - 10000
-Omboue - 10000
+Tarauaca - 10000
+Obidos - 10000
+Sao Gabriel - 10000
 Porto de Moz - 10000
+Oiapoque - 10000
 Goundam - 10000
 Tombouctou - 10000
 Ngaoundere - 10000
-Besalampy - 10000
-Soalala - 10000
-Analalava - 10000
-Port Berge - 10000
-Tambohorano - 10000
 Manja - 10000
 Morombe - 10000
-Antsalova - 10000
 Araguaina - 10000
 Ji-Parana - 10000
 Aripuana - 10000
-Alta Floresta - 10000
 Matupa - 10000
 Costa Marques - 10000
+Nemiscau - 10000
+East Main - 10000
+Wemindji - 10000
 Akulivik - 10000
 Salluit - 10000
-Putussibau - 10000
 Qasigiannguit - 10000
 Qeqertarsuaq - 10000
 Upernavik - 10000
 Uummannaq - 10000
-Paamiut - 10000
 Julia Creek - 10000
-Birdsville - 10000
 Agaun - 10000
 Aragip - 10000
 Biniguni - 10000
@@ -819,25 +766,18 @@ Nuku - 10000
 Aitape - 10000
 Thargomindah - 10000
 Alexander Bay - 10000
-Karonga - 34207
-Kasaba Bay - 10000
 Mabuiag Island - 10000
 Kubin Island - 10000
 Badu Island - 10000
 Murray Island - 10000
 Darnley Island - 10000
 Billiluna - 10000
-Putao - 10000
 Forbes - 10000
 West Wyalong - 10000
-Young - 16756
-Cootamundra - 10000
 Lightning Ridge - 10000
 Mota Lava - 10000
 Torres - 32791
 Cauquira - 10000
-Pond Inlet - 10000
-North Spirit Lake - 10000
 Sachigo Lake - 10000
 Angling Lake - 10000
 Bearskin Lake - 10000
@@ -848,29 +788,29 @@ Honningsvag - 10000
 Vardoe - 10000
 Pakuashipi - 10000
 Gethsemani - 10000
-La Tabatiere - 10000
 Tete-a-La Baleine - 10000
 Kegaska - 10000
 Center Island - 10000
 Decatur Island - 10000
+Uranium City - 10000
+Peawanuck - 10000
+Kaschechewan - 10000
 Ogoki - 10000
-Davis Inlet - 10000
 Hopedale - 10000
 Postville - 10000
 Anvik - 10000
 Mizan Teferi - 10000
 Tum - 10000
-Nkayi - 10000
-Ankavandra - 10000
+Soyo - 10000
+Jacareacanga - 10000
+Oriximina - 10000
 Ivujivik - 10000
 Kangiqsujuaq - 10000
 Pumani - 10000
-Manguna - 10000
 Kuri - 10000
 Kabwum - 10000
 Anguganak - 10000
 Lumi - 10000
-Miandrivazo - 20631
 Satwag - 10000
 Gewoya - 10000
 Black Tickle - 10000
